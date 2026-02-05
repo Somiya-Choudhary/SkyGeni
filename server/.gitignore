@@ -1,0 +1,17 @@
+# =====================
+# Node / JS
+# =====================
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+build/
+.out/
+
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+

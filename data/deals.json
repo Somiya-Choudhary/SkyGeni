@@ -1,0 +1,5402 @@
+[
+  {
+    "deal_id": "D1",
+    "account_id": "A85",
+    "rep_id": "R7",
+    "stage": "Closed Won",
+    "amount": 60519,
+    "created_at": "2025-04-08",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D2",
+    "account_id": "A87",
+    "rep_id": "R11",
+    "stage": "Prospecting",
+    "amount": 12944,
+    "created_at": "2025-08-28",
+    "closed_at": "2025-09-13"
+  },
+  {
+    "deal_id": "D3",
+    "account_id": "A32",
+    "rep_id": "R4",
+    "stage": "Negotiation",
+    "amount": 75292,
+    "created_at": "2025-06-23",
+    "closed_at": "2025-07-16"
+  },
+  {
+    "deal_id": "D4",
+    "account_id": "A60",
+    "rep_id": "R4",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-03-13",
+    "closed_at": "2025-04-27"
+  },
+  {
+    "deal_id": "D5",
+    "account_id": "A108",
+    "rep_id": "R1",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-01-26",
+    "closed_at": "2025-04-15"
+  },
+  {
+    "deal_id": "D6",
+    "account_id": "A111",
+    "rep_id": "R7",
+    "stage": "Prospecting",
+    "amount": 26579,
+    "created_at": "2025-07-28",
+    "closed_at": "2025-09-03"
+  },
+  {
+    "deal_id": "D7",
+    "account_id": "A119",
+    "rep_id": "R13",
+    "stage": "Closed Lost",
+    "amount": 42388,
+    "created_at": "2025-01-02",
+    "closed_at": "2025-02-14"
+  },
+  {
+    "deal_id": "D8",
+    "account_id": "A20",
+    "rep_id": "R4",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-12-23",
+    "closed_at": "2026-03-05"
+  },
+  {
+    "deal_id": "D9",
+    "account_id": "A96",
+    "rep_id": "R6",
+    "stage": "Prospecting",
+    "amount": 11572,
+    "created_at": "2025-10-24",
+    "closed_at": "2025-11-10"
+  },
+  {
+    "deal_id": "D10",
+    "account_id": "A21",
+    "rep_id": "R1",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-09-15",
+    "closed_at": "2025-12-01"
+  },
+  {
+    "deal_id": "D11",
+    "account_id": "A111",
+    "rep_id": "R4",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-11-01",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D12",
+    "account_id": "A54",
+    "rep_id": "R11",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-10-24",
+    "closed_at": "2025-11-13"
+  },
+  {
+    "deal_id": "D13",
+    "account_id": "A34",
+    "rep_id": "R7",
+    "stage": "Negotiation",
+    "amount": 44321,
+    "created_at": "2025-12-09",
+    "closed_at": "2026-01-18"
+  },
+  {
+    "deal_id": "D14",
+    "account_id": "A2",
+    "rep_id": "R8",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-06-11",
+    "closed_at": "2025-06-30"
+  },
+  {
+    "deal_id": "D15",
+    "account_id": "A120",
+    "rep_id": "R6",
+    "stage": "Prospecting",
+    "amount": 37018,
+    "created_at": "2025-09-17",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D16",
+    "account_id": "A107",
+    "rep_id": "R9",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-05-26",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D17",
+    "account_id": "A120",
+    "rep_id": "R11",
+    "stage": "Prospecting",
+    "amount": 22601,
+    "created_at": "2025-12-08",
+    "closed_at": "2026-01-25"
+  },
+  {
+    "deal_id": "D18",
+    "account_id": "A20",
+    "rep_id": "R5",
+    "stage": "Closed Won",
+    "amount": 32607,
+    "created_at": "2025-03-01",
+    "closed_at": "2025-05-20"
+  },
+  {
+    "deal_id": "D19",
+    "account_id": "A65",
+    "rep_id": "R8",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-04-15",
+    "closed_at": "2025-05-28"
+  },
+  {
+    "deal_id": "D20",
+    "account_id": "A6",
+    "rep_id": "R1",
+    "stage": "Closed Won",
+    "amount": 22146,
+    "created_at": "2025-11-21",
+    "closed_at": "2026-01-05"
+  },
+  {
+    "deal_id": "D21",
+    "account_id": "A91",
+    "rep_id": "R7",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-03-24",
+    "closed_at": "2025-06-12"
+  },
+  {
+    "deal_id": "D22",
+    "account_id": "A5",
+    "rep_id": "R14",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-12-20",
+    "closed_at": "2026-03-09"
+  },
+  {
+    "deal_id": "D23",
+    "account_id": "A40",
+    "rep_id": "R6",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-08-09",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D24",
+    "account_id": "A14",
+    "rep_id": "R6",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-12-16",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D25",
+    "account_id": "A113",
+    "rep_id": "R7",
+    "stage": "Prospecting",
+    "amount": 28509,
+    "created_at": "2025-03-25",
+    "closed_at": "2025-04-26"
+  },
+  {
+    "deal_id": "D26",
+    "account_id": "A35",
+    "rep_id": "R3",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-07-30",
+    "closed_at": "2025-09-09"
+  },
+  {
+    "deal_id": "D27",
+    "account_id": "A105",
+    "rep_id": "R15",
+    "stage": "Closed Lost",
+    "amount": 50830,
+    "created_at": "2025-08-29",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D28",
+    "account_id": "A85",
+    "rep_id": "R4",
+    "stage": "Closed Lost",
+    "amount": 48025,
+    "created_at": "2025-04-27",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D29",
+    "account_id": "A45",
+    "rep_id": "R11",
+    "stage": "Closed Lost",
+    "amount": 75282,
+    "created_at": "2025-02-05",
+    "closed_at": "2025-03-22"
+  },
+  {
+    "deal_id": "D30",
+    "account_id": "A34",
+    "rep_id": "R3",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-01-15",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D31",
+    "account_id": "A56",
+    "rep_id": "R10",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-11-02",
+    "closed_at": "2025-12-22"
+  },
+  {
+    "deal_id": "D32",
+    "account_id": "A56",
+    "rep_id": "R1",
+    "stage": "Negotiation",
+    "amount": 52739,
+    "created_at": "2025-05-11",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D33",
+    "account_id": "A80",
+    "rep_id": "R6",
+    "stage": "Prospecting",
+    "amount": 44363,
+    "created_at": "2025-02-05",
+    "closed_at": "2025-03-29"
+  },
+  {
+    "deal_id": "D34",
+    "account_id": "A90",
+    "rep_id": "R5",
+    "stage": "Negotiation",
+    "amount": 30144,
+    "created_at": "2025-12-08",
+    "closed_at": "2026-02-07"
+  },
+  {
+    "deal_id": "D35",
+    "account_id": "A79",
+    "rep_id": "R10",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-12-07",
+    "closed_at": "2026-01-08"
+  },
+  {
+    "deal_id": "D36",
+    "account_id": "A56",
+    "rep_id": "R13",
+    "stage": "Closed Won",
+    "amount": 65946,
+    "created_at": "2025-06-05",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D37",
+    "account_id": "A61",
+    "rep_id": "R13",
+    "stage": "Negotiation",
+    "amount": 16114,
+    "created_at": "2025-08-15",
+    "closed_at": "2025-10-29"
+  },
+  {
+    "deal_id": "D38",
+    "account_id": "A12",
+    "rep_id": "R14",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-09-21",
+    "closed_at": "2025-11-12"
+  },
+  {
+    "deal_id": "D39",
+    "account_id": "A6",
+    "rep_id": "R4",
+    "stage": "Closed Lost",
+    "amount": 14545,
+    "created_at": "2025-04-12",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D40",
+    "account_id": "A92",
+    "rep_id": "R12",
+    "stage": "Closed Lost",
+    "amount": 69799,
+    "created_at": "2025-08-01",
+    "closed_at": "2025-09-04"
+  },
+  {
+    "deal_id": "D41",
+    "account_id": "A89",
+    "rep_id": "R1",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-05-05",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D42",
+    "account_id": "A60",
+    "rep_id": "R1",
+    "stage": "Negotiation",
+    "amount": 20906,
+    "created_at": "2025-04-01",
+    "closed_at": "2025-06-16"
+  },
+  {
+    "deal_id": "D43",
+    "account_id": "A72",
+    "rep_id": "R10",
+    "stage": "Closed Won",
+    "amount": 63008,
+    "created_at": "2025-03-10",
+    "closed_at": "2025-05-26"
+  },
+  {
+    "deal_id": "D44",
+    "account_id": "A96",
+    "rep_id": "R14",
+    "stage": "Closed Lost",
+    "amount": 63991,
+    "created_at": "2025-10-08",
+    "closed_at": "2025-11-07"
+  },
+  {
+    "deal_id": "D45",
+    "account_id": "A99",
+    "rep_id": "R13",
+    "stage": "Closed Lost",
+    "amount": 36358,
+    "created_at": "2025-05-07",
+    "closed_at": "2025-06-21"
+  },
+  {
+    "deal_id": "D46",
+    "account_id": "A37",
+    "rep_id": "R4",
+    "stage": "Closed Won",
+    "amount": 49020,
+    "created_at": "2025-08-14",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D47",
+    "account_id": "A20",
+    "rep_id": "R4",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-10-04",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D48",
+    "account_id": "A70",
+    "rep_id": "R8",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-02-02",
+    "closed_at": "2025-03-26"
+  },
+  {
+    "deal_id": "D49",
+    "account_id": "A110",
+    "rep_id": "R15",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-08-04",
+    "closed_at": "2025-08-16"
+  },
+  {
+    "deal_id": "D50",
+    "account_id": "A50",
+    "rep_id": "R14",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-06-30",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D51",
+    "account_id": "A56",
+    "rep_id": "R8",
+    "stage": "Prospecting",
+    "amount": 55968,
+    "created_at": "2025-09-07",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D52",
+    "account_id": "A93",
+    "rep_id": "R3",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-12-09",
+    "closed_at": "2026-02-08"
+  },
+  {
+    "deal_id": "D53",
+    "account_id": "A11",
+    "rep_id": "R11",
+    "stage": "Closed Lost",
+    "amount": 22786,
+    "created_at": "2025-07-21",
+    "closed_at": "2025-08-03"
+  },
+  {
+    "deal_id": "D54",
+    "account_id": "A49",
+    "rep_id": "R6",
+    "stage": "Negotiation",
+    "amount": 64598,
+    "created_at": "2025-04-04",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D55",
+    "account_id": "A36",
+    "rep_id": "R13",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-06-22",
+    "closed_at": "2025-08-19"
+  },
+  {
+    "deal_id": "D56",
+    "account_id": "A70",
+    "rep_id": "R1",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-08-29",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D57",
+    "account_id": "A4",
+    "rep_id": "R4",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-11-30",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D58",
+    "account_id": "A86",
+    "rep_id": "R2",
+    "stage": "Negotiation",
+    "amount": 65952,
+    "created_at": "2025-05-03",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D59",
+    "account_id": "A78",
+    "rep_id": "R12",
+    "stage": "Prospecting",
+    "amount": 26465,
+    "created_at": "2025-07-08",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D60",
+    "account_id": "A74",
+    "rep_id": "R11",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-02-25",
+    "closed_at": "2025-04-15"
+  },
+  {
+    "deal_id": "D61",
+    "account_id": "A14",
+    "rep_id": "R12",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-02-08",
+    "closed_at": "2025-03-21"
+  },
+  {
+    "deal_id": "D62",
+    "account_id": "A9",
+    "rep_id": "R9",
+    "stage": "Closed Won",
+    "amount": 6658,
+    "created_at": "2025-06-27",
+    "closed_at": "2025-08-23"
+  },
+  {
+    "deal_id": "D63",
+    "account_id": "A47",
+    "rep_id": "R11",
+    "stage": "Closed Lost",
+    "amount": 25052,
+    "created_at": "2025-09-08",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D64",
+    "account_id": "A79",
+    "rep_id": "R13",
+    "stage": "Closed Lost",
+    "amount": 65931,
+    "created_at": "2025-04-01",
+    "closed_at": "2025-05-15"
+  },
+  {
+    "deal_id": "D65",
+    "account_id": "A110",
+    "rep_id": "R4",
+    "stage": "Prospecting",
+    "amount": 41559,
+    "created_at": "2025-10-31",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D66",
+    "account_id": "A44",
+    "rep_id": "R1",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-05-05",
+    "closed_at": "2025-07-02"
+  },
+  {
+    "deal_id": "D67",
+    "account_id": "A103",
+    "rep_id": "R5",
+    "stage": "Closed Won",
+    "amount": 41655,
+    "created_at": "2025-09-07",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D68",
+    "account_id": "A25",
+    "rep_id": "R2",
+    "stage": "Negotiation",
+    "amount": 58271,
+    "created_at": "2025-10-12",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D69",
+    "account_id": "A83",
+    "rep_id": "R12",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-10-12",
+    "closed_at": "2025-12-21"
+  },
+  {
+    "deal_id": "D70",
+    "account_id": "A52",
+    "rep_id": "R12",
+    "stage": "Negotiation",
+    "amount": 45135,
+    "created_at": "2025-02-17",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D71",
+    "account_id": "A55",
+    "rep_id": "R12",
+    "stage": "Closed Won",
+    "amount": 51112,
+    "created_at": "2025-08-31",
+    "closed_at": "2025-10-24"
+  },
+  {
+    "deal_id": "D72",
+    "account_id": "A16",
+    "rep_id": "R12",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-05-19",
+    "closed_at": "2025-06-27"
+  },
+  {
+    "deal_id": "D73",
+    "account_id": "A25",
+    "rep_id": "R4",
+    "stage": "Closed Lost",
+    "amount": 41241,
+    "created_at": "2025-10-02",
+    "closed_at": "2025-11-04"
+  },
+  {
+    "deal_id": "D74",
+    "account_id": "A30",
+    "rep_id": "R6",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-02-21",
+    "closed_at": "2025-04-09"
+  },
+  {
+    "deal_id": "D75",
+    "account_id": "A6",
+    "rep_id": "R1",
+    "stage": "Closed Won",
+    "amount": 21551,
+    "created_at": "2025-10-01",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D76",
+    "account_id": "A61",
+    "rep_id": "R8",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-02-22",
+    "closed_at": "2025-04-09"
+  },
+  {
+    "deal_id": "D77",
+    "account_id": "A111",
+    "rep_id": "R8",
+    "stage": "Prospecting",
+    "amount": 13564,
+    "created_at": "2025-01-27",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D78",
+    "account_id": "A81",
+    "rep_id": "R11",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-09-09",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D79",
+    "account_id": "A32",
+    "rep_id": "R2",
+    "stage": "Closed Lost",
+    "amount": 34581,
+    "created_at": "2025-10-16",
+    "closed_at": "2025-11-05"
+  },
+  {
+    "deal_id": "D80",
+    "account_id": "A111",
+    "rep_id": "R10",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-08-19",
+    "closed_at": "2025-10-06"
+  },
+  {
+    "deal_id": "D81",
+    "account_id": "A98",
+    "rep_id": "R4",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-11-09",
+    "closed_at": "2025-12-01"
+  },
+  {
+    "deal_id": "D82",
+    "account_id": "A71",
+    "rep_id": "R2",
+    "stage": "Negotiation",
+    "amount": 5350,
+    "created_at": "2025-03-22",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D83",
+    "account_id": "A38",
+    "rep_id": "R1",
+    "stage": "Negotiation",
+    "amount": 42762,
+    "created_at": "2025-08-19",
+    "closed_at": "2025-10-28"
+  },
+  {
+    "deal_id": "D84",
+    "account_id": "A88",
+    "rep_id": "R4",
+    "stage": "Closed Won",
+    "amount": 30928,
+    "created_at": "2025-12-26",
+    "closed_at": "2026-01-14"
+  },
+  {
+    "deal_id": "D85",
+    "account_id": "A117",
+    "rep_id": "R5",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-02-28",
+    "closed_at": "2025-03-29"
+  },
+  {
+    "deal_id": "D86",
+    "account_id": "A57",
+    "rep_id": "R2",
+    "stage": "Closed Lost",
+    "amount": 44857,
+    "created_at": "2025-03-26",
+    "closed_at": "2025-05-11"
+  },
+  {
+    "deal_id": "D87",
+    "account_id": "A57",
+    "rep_id": "R2",
+    "stage": "Prospecting",
+    "amount": 61626,
+    "created_at": "2025-05-20",
+    "closed_at": "2025-08-01"
+  },
+  {
+    "deal_id": "D88",
+    "account_id": "A12",
+    "rep_id": "R4",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-11-06",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D89",
+    "account_id": "A118",
+    "rep_id": "R5",
+    "stage": "Negotiation",
+    "amount": 62132,
+    "created_at": "2025-03-31",
+    "closed_at": "2025-06-05"
+  },
+  {
+    "deal_id": "D90",
+    "account_id": "A43",
+    "rep_id": "R6",
+    "stage": "Prospecting",
+    "amount": 26079,
+    "created_at": "2025-02-16",
+    "closed_at": "2025-04-19"
+  },
+  {
+    "deal_id": "D91",
+    "account_id": "A85",
+    "rep_id": "R7",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-07-30",
+    "closed_at": "2025-09-14"
+  },
+  {
+    "deal_id": "D92",
+    "account_id": "A15",
+    "rep_id": "R13",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-06-11",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D93",
+    "account_id": "A53",
+    "rep_id": "R1",
+    "stage": "Negotiation",
+    "amount": 72952,
+    "created_at": "2025-12-03",
+    "closed_at": "2026-02-10"
+  },
+  {
+    "deal_id": "D94",
+    "account_id": "A98",
+    "rep_id": "R1",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-11-15",
+    "closed_at": "2026-01-20"
+  },
+  {
+    "deal_id": "D95",
+    "account_id": "A16",
+    "rep_id": "R1",
+    "stage": "Negotiation",
+    "amount": 25758,
+    "created_at": "2025-05-28",
+    "closed_at": "2025-08-08"
+  },
+  {
+    "deal_id": "D96",
+    "account_id": "A53",
+    "rep_id": "R2",
+    "stage": "Negotiation",
+    "amount": 19871,
+    "created_at": "2025-10-10",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D97",
+    "account_id": "A64",
+    "rep_id": "R15",
+    "stage": "Closed Won",
+    "amount": 71698,
+    "created_at": "2025-03-02",
+    "closed_at": "2025-03-31"
+  },
+  {
+    "deal_id": "D98",
+    "account_id": "A32",
+    "rep_id": "R8",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-08-01",
+    "closed_at": "2025-10-10"
+  },
+  {
+    "deal_id": "D99",
+    "account_id": "A111",
+    "rep_id": "R2",
+    "stage": "Closed Won",
+    "amount": 59387,
+    "created_at": "2025-11-03",
+    "closed_at": "2025-11-30"
+  },
+  {
+    "deal_id": "D100",
+    "account_id": "A1",
+    "rep_id": "R5",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-09-17",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D101",
+    "account_id": "A43",
+    "rep_id": "R9",
+    "stage": "Closed Lost",
+    "amount": 64682,
+    "created_at": "2025-08-17",
+    "closed_at": "2025-10-10"
+  },
+  {
+    "deal_id": "D102",
+    "account_id": "A74",
+    "rep_id": "R7",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-04-07",
+    "closed_at": "2025-05-17"
+  },
+  {
+    "deal_id": "D103",
+    "account_id": "A50",
+    "rep_id": "R11",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-06-12",
+    "closed_at": "2025-08-09"
+  },
+  {
+    "deal_id": "D104",
+    "account_id": "A112",
+    "rep_id": "R2",
+    "stage": "Closed Lost",
+    "amount": 18069,
+    "created_at": "2025-03-06",
+    "closed_at": "2025-04-27"
+  },
+  {
+    "deal_id": "D105",
+    "account_id": "A112",
+    "rep_id": "R11",
+    "stage": "Negotiation",
+    "amount": 14807,
+    "created_at": "2025-01-08",
+    "closed_at": "2025-03-11"
+  },
+  {
+    "deal_id": "D106",
+    "account_id": "A84",
+    "rep_id": "R2",
+    "stage": "Closed Won",
+    "amount": 74942,
+    "created_at": "2025-05-16",
+    "closed_at": "2025-07-15"
+  },
+  {
+    "deal_id": "D107",
+    "account_id": "A112",
+    "rep_id": "R9",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-06-12",
+    "closed_at": "2025-08-23"
+  },
+  {
+    "deal_id": "D108",
+    "account_id": "A30",
+    "rep_id": "R12",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-11-20",
+    "closed_at": "2026-01-05"
+  },
+  {
+    "deal_id": "D109",
+    "account_id": "A57",
+    "rep_id": "R3",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-11-21",
+    "closed_at": "2025-12-13"
+  },
+  {
+    "deal_id": "D110",
+    "account_id": "A46",
+    "rep_id": "R6",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-06-16",
+    "closed_at": "2025-08-02"
+  },
+  {
+    "deal_id": "D111",
+    "account_id": "A22",
+    "rep_id": "R3",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-09-29",
+    "closed_at": "2025-11-01"
+  },
+  {
+    "deal_id": "D112",
+    "account_id": "A30",
+    "rep_id": "R8",
+    "stage": "Closed Won",
+    "amount": 65236,
+    "created_at": "2025-09-12",
+    "closed_at": "2025-10-10"
+  },
+  {
+    "deal_id": "D113",
+    "account_id": "A103",
+    "rep_id": "R8",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-12-08",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D114",
+    "account_id": "A76",
+    "rep_id": "R5",
+    "stage": "Closed Lost",
+    "amount": 37780,
+    "created_at": "2025-02-07",
+    "closed_at": "2025-04-02"
+  },
+  {
+    "deal_id": "D115",
+    "account_id": "A50",
+    "rep_id": "R14",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-06-04",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D116",
+    "account_id": "A90",
+    "rep_id": "R5",
+    "stage": "Prospecting",
+    "amount": 56879,
+    "created_at": "2025-07-15",
+    "closed_at": "2025-08-31"
+  },
+  {
+    "deal_id": "D117",
+    "account_id": "A117",
+    "rep_id": "R10",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-01-05",
+    "closed_at": "2025-01-21"
+  },
+  {
+    "deal_id": "D118",
+    "account_id": "A82",
+    "rep_id": "R4",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-11-07",
+    "closed_at": "2025-12-15"
+  },
+  {
+    "deal_id": "D119",
+    "account_id": "A101",
+    "rep_id": "R8",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-11-18",
+    "closed_at": "2026-01-06"
+  },
+  {
+    "deal_id": "D120",
+    "account_id": "A96",
+    "rep_id": "R7",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-02-16",
+    "closed_at": "2025-04-08"
+  },
+  {
+    "deal_id": "D121",
+    "account_id": "A68",
+    "rep_id": "R9",
+    "stage": "Closed Won",
+    "amount": 26567,
+    "created_at": "2025-10-04",
+    "closed_at": "2025-11-29"
+  },
+  {
+    "deal_id": "D122",
+    "account_id": "A96",
+    "rep_id": "R14",
+    "stage": "Closed Won",
+    "amount": 20095,
+    "created_at": "2025-09-04",
+    "closed_at": "2025-10-21"
+  },
+  {
+    "deal_id": "D123",
+    "account_id": "A29",
+    "rep_id": "R14",
+    "stage": "Closed Lost",
+    "amount": 78048,
+    "created_at": "2025-02-08",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D124",
+    "account_id": "A34",
+    "rep_id": "R9",
+    "stage": "Prospecting",
+    "amount": 64609,
+    "created_at": "2025-02-16",
+    "closed_at": "2025-02-27"
+  },
+  {
+    "deal_id": "D125",
+    "account_id": "A75",
+    "rep_id": "R7",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-12-11",
+    "closed_at": "2026-01-23"
+  },
+  {
+    "deal_id": "D126",
+    "account_id": "A114",
+    "rep_id": "R9",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-08-30",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D127",
+    "account_id": "A84",
+    "rep_id": "R7",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-11-22",
+    "closed_at": "2026-01-09"
+  },
+  {
+    "deal_id": "D128",
+    "account_id": "A15",
+    "rep_id": "R2",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-01-20",
+    "closed_at": "2025-04-03"
+  },
+  {
+    "deal_id": "D129",
+    "account_id": "A54",
+    "rep_id": "R10",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-07-18",
+    "closed_at": "2025-10-05"
+  },
+  {
+    "deal_id": "D130",
+    "account_id": "A5",
+    "rep_id": "R12",
+    "stage": "Closed Won",
+    "amount": 33477,
+    "created_at": "2025-09-08",
+    "closed_at": "2025-10-23"
+  },
+  {
+    "deal_id": "D131",
+    "account_id": "A13",
+    "rep_id": "R11",
+    "stage": "Closed Won",
+    "amount": 76364,
+    "created_at": "2025-08-16",
+    "closed_at": "2025-10-11"
+  },
+  {
+    "deal_id": "D132",
+    "account_id": "A16",
+    "rep_id": "R14",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-02-01",
+    "closed_at": "2025-03-07"
+  },
+  {
+    "deal_id": "D133",
+    "account_id": "A7",
+    "rep_id": "R13",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-11-25",
+    "closed_at": "2025-12-07"
+  },
+  {
+    "deal_id": "D134",
+    "account_id": "A107",
+    "rep_id": "R13",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-10-17",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D135",
+    "account_id": "A36",
+    "rep_id": "R14",
+    "stage": "Negotiation",
+    "amount": 22038,
+    "created_at": "2025-06-18",
+    "closed_at": "2025-06-28"
+  },
+  {
+    "deal_id": "D136",
+    "account_id": "A111",
+    "rep_id": "R1",
+    "stage": "Negotiation",
+    "amount": 6947,
+    "created_at": "2025-03-31",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D137",
+    "account_id": "A23",
+    "rep_id": "R5",
+    "stage": "Prospecting",
+    "amount": 21614,
+    "created_at": "2025-05-02",
+    "closed_at": "2025-05-14"
+  },
+  {
+    "deal_id": "D138",
+    "account_id": "A9",
+    "rep_id": "R8",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-09-27",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D139",
+    "account_id": "A94",
+    "rep_id": "R13",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-08-20",
+    "closed_at": "2025-09-04"
+  },
+  {
+    "deal_id": "D140",
+    "account_id": "A55",
+    "rep_id": "R11",
+    "stage": "Prospecting",
+    "amount": 69260,
+    "created_at": "2025-02-01",
+    "closed_at": "2025-04-03"
+  },
+  {
+    "deal_id": "D141",
+    "account_id": "A78",
+    "rep_id": "R3",
+    "stage": "Prospecting",
+    "amount": 21540,
+    "created_at": "2025-02-07",
+    "closed_at": "2025-03-30"
+  },
+  {
+    "deal_id": "D142",
+    "account_id": "A92",
+    "rep_id": "R6",
+    "stage": "Closed Lost",
+    "amount": 74541,
+    "created_at": "2025-11-16",
+    "closed_at": "2026-02-04"
+  },
+  {
+    "deal_id": "D143",
+    "account_id": "A13",
+    "rep_id": "R13",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-08-21",
+    "closed_at": "2025-10-25"
+  },
+  {
+    "deal_id": "D144",
+    "account_id": "A53",
+    "rep_id": "R6",
+    "stage": "Closed Lost",
+    "amount": 57262,
+    "created_at": "2025-08-09",
+    "closed_at": "2025-09-17"
+  },
+  {
+    "deal_id": "D145",
+    "account_id": "A86",
+    "rep_id": "R5",
+    "stage": "Closed Won",
+    "amount": 25006,
+    "created_at": "2025-02-18",
+    "closed_at": "2025-04-09"
+  },
+  {
+    "deal_id": "D146",
+    "account_id": "A11",
+    "rep_id": "R2",
+    "stage": "Closed Lost",
+    "amount": 17656,
+    "created_at": "2025-02-04",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D147",
+    "account_id": "A86",
+    "rep_id": "R2",
+    "stage": "Closed Lost",
+    "amount": 51346,
+    "created_at": "2025-03-08",
+    "closed_at": "2025-04-29"
+  },
+  {
+    "deal_id": "D148",
+    "account_id": "A46",
+    "rep_id": "R2",
+    "stage": "Negotiation",
+    "amount": 25280,
+    "created_at": "2025-01-27",
+    "closed_at": "2025-03-17"
+  },
+  {
+    "deal_id": "D149",
+    "account_id": "A109",
+    "rep_id": "R9",
+    "stage": "Closed Won",
+    "amount": 20058,
+    "created_at": "2025-04-25",
+    "closed_at": "2025-06-18"
+  },
+  {
+    "deal_id": "D150",
+    "account_id": "A55",
+    "rep_id": "R14",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-10-21",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D151",
+    "account_id": "A98",
+    "rep_id": "R5",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-04-03",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D152",
+    "account_id": "A9",
+    "rep_id": "R3",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-04-03",
+    "closed_at": "2025-06-03"
+  },
+  {
+    "deal_id": "D153",
+    "account_id": "A21",
+    "rep_id": "R6",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-07-12",
+    "closed_at": "2025-09-03"
+  },
+  {
+    "deal_id": "D154",
+    "account_id": "A97",
+    "rep_id": "R10",
+    "stage": "Prospecting",
+    "amount": 15693,
+    "created_at": "2025-01-27",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D155",
+    "account_id": "A78",
+    "rep_id": "R8",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-08-15",
+    "closed_at": "2025-10-26"
+  },
+  {
+    "deal_id": "D156",
+    "account_id": "A56",
+    "rep_id": "R2",
+    "stage": "Closed Won",
+    "amount": 68783,
+    "created_at": "2025-09-20",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D157",
+    "account_id": "A77",
+    "rep_id": "R1",
+    "stage": "Prospecting",
+    "amount": 31794,
+    "created_at": "2025-01-24",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D158",
+    "account_id": "A38",
+    "rep_id": "R6",
+    "stage": "Prospecting",
+    "amount": 6013,
+    "created_at": "2025-04-19",
+    "closed_at": "2025-05-31"
+  },
+  {
+    "deal_id": "D159",
+    "account_id": "A49",
+    "rep_id": "R9",
+    "stage": "Negotiation",
+    "amount": 70570,
+    "created_at": "2025-08-09",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D160",
+    "account_id": "A56",
+    "rep_id": "R1",
+    "stage": "Closed Lost",
+    "amount": 15205,
+    "created_at": "2025-02-06",
+    "closed_at": "2025-02-21"
+  },
+  {
+    "deal_id": "D161",
+    "account_id": "A91",
+    "rep_id": "R11",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-10-22",
+    "closed_at": "2025-12-22"
+  },
+  {
+    "deal_id": "D162",
+    "account_id": "A42",
+    "rep_id": "R3",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-07-27",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D163",
+    "account_id": "A56",
+    "rep_id": "R10",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-08-12",
+    "closed_at": "2025-09-22"
+  },
+  {
+    "deal_id": "D164",
+    "account_id": "A29",
+    "rep_id": "R6",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-07-22",
+    "closed_at": "2025-09-13"
+  },
+  {
+    "deal_id": "D165",
+    "account_id": "A45",
+    "rep_id": "R12",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-09-29",
+    "closed_at": "2025-11-22"
+  },
+  {
+    "deal_id": "D166",
+    "account_id": "A23",
+    "rep_id": "R10",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-03-16",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D167",
+    "account_id": "A88",
+    "rep_id": "R15",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-11-18",
+    "closed_at": "2026-01-24"
+  },
+  {
+    "deal_id": "D168",
+    "account_id": "A57",
+    "rep_id": "R11",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-08-14",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D169",
+    "account_id": "A60",
+    "rep_id": "R8",
+    "stage": "Prospecting",
+    "amount": 12456,
+    "created_at": "2025-06-30",
+    "closed_at": "2025-08-18"
+  },
+  {
+    "deal_id": "D170",
+    "account_id": "A111",
+    "rep_id": "R14",
+    "stage": "Prospecting",
+    "amount": 71462,
+    "created_at": "2025-05-27",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D171",
+    "account_id": "A58",
+    "rep_id": "R15",
+    "stage": "Negotiation",
+    "amount": 47143,
+    "created_at": "2025-08-25",
+    "closed_at": "2025-09-09"
+  },
+  {
+    "deal_id": "D172",
+    "account_id": "A8",
+    "rep_id": "R8",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-09-14",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D173",
+    "account_id": "A32",
+    "rep_id": "R12",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-09-16",
+    "closed_at": "2025-10-01"
+  },
+  {
+    "deal_id": "D174",
+    "account_id": "A50",
+    "rep_id": "R7",
+    "stage": "Closed Won",
+    "amount": 11863,
+    "created_at": "2025-07-06",
+    "closed_at": "2025-08-21"
+  },
+  {
+    "deal_id": "D175",
+    "account_id": "A37",
+    "rep_id": "R5",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-02-03",
+    "closed_at": "2025-04-03"
+  },
+  {
+    "deal_id": "D176",
+    "account_id": "A40",
+    "rep_id": "R11",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-10-26",
+    "closed_at": "2025-12-19"
+  },
+  {
+    "deal_id": "D177",
+    "account_id": "A105",
+    "rep_id": "R3",
+    "stage": "Prospecting",
+    "amount": 60496,
+    "created_at": "2025-06-08",
+    "closed_at": "2025-07-30"
+  },
+  {
+    "deal_id": "D178",
+    "account_id": "A28",
+    "rep_id": "R6",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-01-10",
+    "closed_at": "2025-02-12"
+  },
+  {
+    "deal_id": "D179",
+    "account_id": "A38",
+    "rep_id": "R14",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-03-12",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D180",
+    "account_id": "A77",
+    "rep_id": "R7",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-12-05",
+    "closed_at": "2025-12-31"
+  },
+  {
+    "deal_id": "D181",
+    "account_id": "A93",
+    "rep_id": "R8",
+    "stage": "Prospecting",
+    "amount": 58852,
+    "created_at": "2025-12-21",
+    "closed_at": "2026-01-21"
+  },
+  {
+    "deal_id": "D182",
+    "account_id": "A79",
+    "rep_id": "R5",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-12-13",
+    "closed_at": "2026-02-17"
+  },
+  {
+    "deal_id": "D183",
+    "account_id": "A116",
+    "rep_id": "R14",
+    "stage": "Negotiation",
+    "amount": 53213,
+    "created_at": "2025-06-08",
+    "closed_at": "2025-08-17"
+  },
+  {
+    "deal_id": "D184",
+    "account_id": "A65",
+    "rep_id": "R9",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-08-25",
+    "closed_at": "2025-10-22"
+  },
+  {
+    "deal_id": "D185",
+    "account_id": "A33",
+    "rep_id": "R1",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-11-06",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D186",
+    "account_id": "A11",
+    "rep_id": "R13",
+    "stage": "Negotiation",
+    "amount": 40755,
+    "created_at": "2025-09-22",
+    "closed_at": "2025-11-07"
+  },
+  {
+    "deal_id": "D187",
+    "account_id": "A56",
+    "rep_id": "R2",
+    "stage": "Negotiation",
+    "amount": 64130,
+    "created_at": "2025-09-20",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D188",
+    "account_id": "A65",
+    "rep_id": "R6",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-01-14",
+    "closed_at": "2025-03-15"
+  },
+  {
+    "deal_id": "D189",
+    "account_id": "A41",
+    "rep_id": "R15",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-07-11",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D190",
+    "account_id": "A118",
+    "rep_id": "R14",
+    "stage": "Closed Lost",
+    "amount": 23191,
+    "created_at": "2025-03-12",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D191",
+    "account_id": "A3",
+    "rep_id": "R5",
+    "stage": "Negotiation",
+    "amount": 24597,
+    "created_at": "2025-08-18",
+    "closed_at": "2025-09-07"
+  },
+  {
+    "deal_id": "D192",
+    "account_id": "A39",
+    "rep_id": "R2",
+    "stage": "Prospecting",
+    "amount": 36252,
+    "created_at": "2025-02-26",
+    "closed_at": "2025-04-07"
+  },
+  {
+    "deal_id": "D193",
+    "account_id": "A9",
+    "rep_id": "R2",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-11-24",
+    "closed_at": "2026-01-31"
+  },
+  {
+    "deal_id": "D194",
+    "account_id": "A92",
+    "rep_id": "R3",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-11-20",
+    "closed_at": "2025-12-30"
+  },
+  {
+    "deal_id": "D195",
+    "account_id": "A24",
+    "rep_id": "R11",
+    "stage": "Prospecting",
+    "amount": 73614,
+    "created_at": "2025-11-11",
+    "closed_at": "2026-01-13"
+  },
+  {
+    "deal_id": "D196",
+    "account_id": "A65",
+    "rep_id": "R13",
+    "stage": "Prospecting",
+    "amount": 56177,
+    "created_at": "2025-02-04",
+    "closed_at": "2025-04-24"
+  },
+  {
+    "deal_id": "D197",
+    "account_id": "A33",
+    "rep_id": "R12",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-01-23",
+    "closed_at": "2025-03-21"
+  },
+  {
+    "deal_id": "D198",
+    "account_id": "A85",
+    "rep_id": "R11",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-06-26",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D199",
+    "account_id": "A105",
+    "rep_id": "R11",
+    "stage": "Negotiation",
+    "amount": 65899,
+    "created_at": "2025-01-23",
+    "closed_at": "2025-03-17"
+  },
+  {
+    "deal_id": "D200",
+    "account_id": "A18",
+    "rep_id": "R2",
+    "stage": "Closed Lost",
+    "amount": 9847,
+    "created_at": "2025-11-20",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D201",
+    "account_id": "A26",
+    "rep_id": "R15",
+    "stage": "Prospecting",
+    "amount": 46365,
+    "created_at": "2025-04-14",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D202",
+    "account_id": "A61",
+    "rep_id": "R5",
+    "stage": "Prospecting",
+    "amount": 30048,
+    "created_at": "2025-09-21",
+    "closed_at": "2025-12-09"
+  },
+  {
+    "deal_id": "D203",
+    "account_id": "A111",
+    "rep_id": "R11",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-07-02",
+    "closed_at": "2025-07-18"
+  },
+  {
+    "deal_id": "D204",
+    "account_id": "A96",
+    "rep_id": "R8",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-07-08",
+    "closed_at": "2025-09-07"
+  },
+  {
+    "deal_id": "D205",
+    "account_id": "A119",
+    "rep_id": "R13",
+    "stage": "Closed Won",
+    "amount": 15828,
+    "created_at": "2025-09-12",
+    "closed_at": "2025-11-08"
+  },
+  {
+    "deal_id": "D206",
+    "account_id": "A70",
+    "rep_id": "R5",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-02-10",
+    "closed_at": "2025-03-15"
+  },
+  {
+    "deal_id": "D207",
+    "account_id": "A58",
+    "rep_id": "R10",
+    "stage": "Closed Lost",
+    "amount": 26842,
+    "created_at": "2025-06-17",
+    "closed_at": "2025-08-05"
+  },
+  {
+    "deal_id": "D208",
+    "account_id": "A79",
+    "rep_id": "R7",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-06-29",
+    "closed_at": "2025-08-23"
+  },
+  {
+    "deal_id": "D209",
+    "account_id": "A66",
+    "rep_id": "R13",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-12-10",
+    "closed_at": "2026-02-04"
+  },
+  {
+    "deal_id": "D210",
+    "account_id": "A5",
+    "rep_id": "R3",
+    "stage": "Prospecting",
+    "amount": 35932,
+    "created_at": "2025-11-08",
+    "closed_at": "2026-01-13"
+  },
+  {
+    "deal_id": "D211",
+    "account_id": "A78",
+    "rep_id": "R3",
+    "stage": "Closed Lost",
+    "amount": 53623,
+    "created_at": "2025-07-05",
+    "closed_at": "2025-07-19"
+  },
+  {
+    "deal_id": "D212",
+    "account_id": "A68",
+    "rep_id": "R6",
+    "stage": "Closed Lost",
+    "amount": 46207,
+    "created_at": "2025-08-16",
+    "closed_at": "2025-09-12"
+  },
+  {
+    "deal_id": "D213",
+    "account_id": "A95",
+    "rep_id": "R3",
+    "stage": "Closed Lost",
+    "amount": 72861,
+    "created_at": "2025-05-08",
+    "closed_at": "2025-05-21"
+  },
+  {
+    "deal_id": "D214",
+    "account_id": "A100",
+    "rep_id": "R5",
+    "stage": "Closed Lost",
+    "amount": 33124,
+    "created_at": "2025-10-15",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D215",
+    "account_id": "A26",
+    "rep_id": "R2",
+    "stage": "Negotiation",
+    "amount": 14706,
+    "created_at": "2025-12-22",
+    "closed_at": "2026-03-04"
+  },
+  {
+    "deal_id": "D216",
+    "account_id": "A12",
+    "rep_id": "R13",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-03-30",
+    "closed_at": "2025-06-04"
+  },
+  {
+    "deal_id": "D217",
+    "account_id": "A109",
+    "rep_id": "R3",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-10-09",
+    "closed_at": "2025-11-26"
+  },
+  {
+    "deal_id": "D218",
+    "account_id": "A31",
+    "rep_id": "R13",
+    "stage": "Closed Lost",
+    "amount": 8445,
+    "created_at": "2025-03-04",
+    "closed_at": "2025-03-31"
+  },
+  {
+    "deal_id": "D219",
+    "account_id": "A103",
+    "rep_id": "R9",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-10-11",
+    "closed_at": "2025-12-19"
+  },
+  {
+    "deal_id": "D220",
+    "account_id": "A68",
+    "rep_id": "R7",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-06-08",
+    "closed_at": "2025-08-18"
+  },
+  {
+    "deal_id": "D221",
+    "account_id": "A60",
+    "rep_id": "R11",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-06-12",
+    "closed_at": "2025-08-18"
+  },
+  {
+    "deal_id": "D222",
+    "account_id": "A107",
+    "rep_id": "R2",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-03-08",
+    "closed_at": "2025-03-25"
+  },
+  {
+    "deal_id": "D223",
+    "account_id": "A45",
+    "rep_id": "R9",
+    "stage": "Closed Won",
+    "amount": 15336,
+    "created_at": "2025-03-24",
+    "closed_at": "2025-05-01"
+  },
+  {
+    "deal_id": "D224",
+    "account_id": "A36",
+    "rep_id": "R3",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-04-11",
+    "closed_at": "2025-06-30"
+  },
+  {
+    "deal_id": "D225",
+    "account_id": "A22",
+    "rep_id": "R11",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-09-15",
+    "closed_at": "2025-10-14"
+  },
+  {
+    "deal_id": "D226",
+    "account_id": "A83",
+    "rep_id": "R13",
+    "stage": "Closed Won",
+    "amount": 32631,
+    "created_at": "2025-01-15",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D227",
+    "account_id": "A114",
+    "rep_id": "R11",
+    "stage": "Closed Won",
+    "amount": 44596,
+    "created_at": "2025-11-13",
+    "closed_at": "2026-01-25"
+  },
+  {
+    "deal_id": "D228",
+    "account_id": "A39",
+    "rep_id": "R8",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-05-06",
+    "closed_at": "2025-07-06"
+  },
+  {
+    "deal_id": "D229",
+    "account_id": "A27",
+    "rep_id": "R6",
+    "stage": "Negotiation",
+    "amount": 45970,
+    "created_at": "2025-08-14",
+    "closed_at": "2025-10-22"
+  },
+  {
+    "deal_id": "D230",
+    "account_id": "A98",
+    "rep_id": "R6",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-06-26",
+    "closed_at": "2025-07-22"
+  },
+  {
+    "deal_id": "D231",
+    "account_id": "A58",
+    "rep_id": "R4",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-08-27",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D232",
+    "account_id": "A32",
+    "rep_id": "R14",
+    "stage": "Negotiation",
+    "amount": 47917,
+    "created_at": "2025-05-29",
+    "closed_at": "2025-07-31"
+  },
+  {
+    "deal_id": "D233",
+    "account_id": "A66",
+    "rep_id": "R8",
+    "stage": "Closed Lost",
+    "amount": 45441,
+    "created_at": "2025-04-08",
+    "closed_at": "2025-06-20"
+  },
+  {
+    "deal_id": "D234",
+    "account_id": "A51",
+    "rep_id": "R9",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-01-12",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D235",
+    "account_id": "A37",
+    "rep_id": "R8",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-10-26",
+    "closed_at": "2025-11-11"
+  },
+  {
+    "deal_id": "D236",
+    "account_id": "A94",
+    "rep_id": "R6",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-02-25",
+    "closed_at": "2025-04-09"
+  },
+  {
+    "deal_id": "D237",
+    "account_id": "A72",
+    "rep_id": "R4",
+    "stage": "Closed Won",
+    "amount": 77512,
+    "created_at": "2025-07-25",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D238",
+    "account_id": "A98",
+    "rep_id": "R9",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-02-07",
+    "closed_at": "2025-04-15"
+  },
+  {
+    "deal_id": "D239",
+    "account_id": "A72",
+    "rep_id": "R6",
+    "stage": "Negotiation",
+    "amount": 31090,
+    "created_at": "2025-02-19",
+    "closed_at": "2025-04-13"
+  },
+  {
+    "deal_id": "D240",
+    "account_id": "A5",
+    "rep_id": "R3",
+    "stage": "Closed Won",
+    "amount": 67094,
+    "created_at": "2025-09-14",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D241",
+    "account_id": "A18",
+    "rep_id": "R6",
+    "stage": "Closed Won",
+    "amount": 26299,
+    "created_at": "2025-03-18",
+    "closed_at": "2025-06-01"
+  },
+  {
+    "deal_id": "D242",
+    "account_id": "A76",
+    "rep_id": "R6",
+    "stage": "Closed Lost",
+    "amount": 78783,
+    "created_at": "2025-11-12",
+    "closed_at": "2025-12-30"
+  },
+  {
+    "deal_id": "D243",
+    "account_id": "A43",
+    "rep_id": "R11",
+    "stage": "Prospecting",
+    "amount": 59596,
+    "created_at": "2025-09-01",
+    "closed_at": "2025-10-28"
+  },
+  {
+    "deal_id": "D244",
+    "account_id": "A34",
+    "rep_id": "R11",
+    "stage": "Negotiation",
+    "amount": 11731,
+    "created_at": "2025-12-19",
+    "closed_at": "2026-02-27"
+  },
+  {
+    "deal_id": "D245",
+    "account_id": "A19",
+    "rep_id": "R14",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-03-29",
+    "closed_at": "2025-05-26"
+  },
+  {
+    "deal_id": "D246",
+    "account_id": "A41",
+    "rep_id": "R7",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-04-08",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D247",
+    "account_id": "A112",
+    "rep_id": "R14",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-07-30",
+    "closed_at": "2025-10-08"
+  },
+  {
+    "deal_id": "D248",
+    "account_id": "A68",
+    "rep_id": "R7",
+    "stage": "Closed Won",
+    "amount": 27699,
+    "created_at": "2025-10-15",
+    "closed_at": "2025-12-25"
+  },
+  {
+    "deal_id": "D249",
+    "account_id": "A87",
+    "rep_id": "R13",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-09-30",
+    "closed_at": "2025-11-24"
+  },
+  {
+    "deal_id": "D250",
+    "account_id": "A39",
+    "rep_id": "R4",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-05-07",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D251",
+    "account_id": "A62",
+    "rep_id": "R6",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-12-20",
+    "closed_at": "2026-02-08"
+  },
+  {
+    "deal_id": "D252",
+    "account_id": "A115",
+    "rep_id": "R7",
+    "stage": "Closed Won",
+    "amount": 24198,
+    "created_at": "2025-10-21",
+    "closed_at": "2025-12-18"
+  },
+  {
+    "deal_id": "D253",
+    "account_id": "A92",
+    "rep_id": "R2",
+    "stage": "Closed Won",
+    "amount": 62983,
+    "created_at": "2025-01-22",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D254",
+    "account_id": "A106",
+    "rep_id": "R9",
+    "stage": "Closed Won",
+    "amount": 78664,
+    "created_at": "2025-09-03",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D255",
+    "account_id": "A95",
+    "rep_id": "R10",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-03-12",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D256",
+    "account_id": "A82",
+    "rep_id": "R4",
+    "stage": "Prospecting",
+    "amount": 18133,
+    "created_at": "2025-12-09",
+    "closed_at": "2026-01-16"
+  },
+  {
+    "deal_id": "D257",
+    "account_id": "A88",
+    "rep_id": "R13",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-06-19",
+    "closed_at": "2025-07-11"
+  },
+  {
+    "deal_id": "D258",
+    "account_id": "A62",
+    "rep_id": "R11",
+    "stage": "Negotiation",
+    "amount": 42649,
+    "created_at": "2025-07-28",
+    "closed_at": "2025-10-06"
+  },
+  {
+    "deal_id": "D259",
+    "account_id": "A84",
+    "rep_id": "R10",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-05-27",
+    "closed_at": "2025-06-17"
+  },
+  {
+    "deal_id": "D260",
+    "account_id": "A120",
+    "rep_id": "R15",
+    "stage": "Prospecting",
+    "amount": 57034,
+    "created_at": "2025-03-31",
+    "closed_at": "2025-05-02"
+  },
+  {
+    "deal_id": "D261",
+    "account_id": "A113",
+    "rep_id": "R1",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-04-06",
+    "closed_at": "2025-05-23"
+  },
+  {
+    "deal_id": "D262",
+    "account_id": "A83",
+    "rep_id": "R9",
+    "stage": "Closed Lost",
+    "amount": 22589,
+    "created_at": "2025-06-21",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D263",
+    "account_id": "A15",
+    "rep_id": "R6",
+    "stage": "Negotiation",
+    "amount": 65150,
+    "created_at": "2025-05-20",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D264",
+    "account_id": "A44",
+    "rep_id": "R13",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-04-06",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D265",
+    "account_id": "A106",
+    "rep_id": "R7",
+    "stage": "Closed Won",
+    "amount": 16368,
+    "created_at": "2025-03-31",
+    "closed_at": "2025-05-31"
+  },
+  {
+    "deal_id": "D266",
+    "account_id": "A18",
+    "rep_id": "R8",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-12-09",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D267",
+    "account_id": "A97",
+    "rep_id": "R5",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-05-14",
+    "closed_at": "2025-07-20"
+  },
+  {
+    "deal_id": "D268",
+    "account_id": "A8",
+    "rep_id": "R11",
+    "stage": "Prospecting",
+    "amount": 66000,
+    "created_at": "2025-05-14",
+    "closed_at": "2025-06-23"
+  },
+  {
+    "deal_id": "D269",
+    "account_id": "A119",
+    "rep_id": "R15",
+    "stage": "Closed Won",
+    "amount": 20389,
+    "created_at": "2025-03-23",
+    "closed_at": "2025-06-05"
+  },
+  {
+    "deal_id": "D270",
+    "account_id": "A18",
+    "rep_id": "R8",
+    "stage": "Negotiation",
+    "amount": 64634,
+    "created_at": "2025-07-08",
+    "closed_at": "2025-08-15"
+  },
+  {
+    "deal_id": "D271",
+    "account_id": "A97",
+    "rep_id": "R9",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-08-01",
+    "closed_at": "2025-10-10"
+  },
+  {
+    "deal_id": "D272",
+    "account_id": "A10",
+    "rep_id": "R15",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-09-27",
+    "closed_at": "2025-11-22"
+  },
+  {
+    "deal_id": "D273",
+    "account_id": "A42",
+    "rep_id": "R14",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-10-21",
+    "closed_at": "2025-11-21"
+  },
+  {
+    "deal_id": "D274",
+    "account_id": "A58",
+    "rep_id": "R13",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-10-26",
+    "closed_at": "2026-01-09"
+  },
+  {
+    "deal_id": "D275",
+    "account_id": "A72",
+    "rep_id": "R8",
+    "stage": "Closed Won",
+    "amount": 7853,
+    "created_at": "2025-09-20",
+    "closed_at": "2025-10-07"
+  },
+  {
+    "deal_id": "D276",
+    "account_id": "A75",
+    "rep_id": "R2",
+    "stage": "Prospecting",
+    "amount": 60534,
+    "created_at": "2025-05-11",
+    "closed_at": "2025-06-17"
+  },
+  {
+    "deal_id": "D277",
+    "account_id": "A8",
+    "rep_id": "R15",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-12-25",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D278",
+    "account_id": "A99",
+    "rep_id": "R11",
+    "stage": "Closed Lost",
+    "amount": 54081,
+    "created_at": "2025-05-27",
+    "closed_at": "2025-06-23"
+  },
+  {
+    "deal_id": "D279",
+    "account_id": "A49",
+    "rep_id": "R2",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-08-18",
+    "closed_at": "2025-10-15"
+  },
+  {
+    "deal_id": "D280",
+    "account_id": "A68",
+    "rep_id": "R3",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-04-02",
+    "closed_at": "2025-06-01"
+  },
+  {
+    "deal_id": "D281",
+    "account_id": "A55",
+    "rep_id": "R9",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-06-02",
+    "closed_at": "2025-08-20"
+  },
+  {
+    "deal_id": "D282",
+    "account_id": "A25",
+    "rep_id": "R15",
+    "stage": "Prospecting",
+    "amount": 9222,
+    "created_at": "2025-08-24",
+    "closed_at": "2025-10-08"
+  },
+  {
+    "deal_id": "D283",
+    "account_id": "A31",
+    "rep_id": "R4",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-11-11",
+    "closed_at": "2025-11-23"
+  },
+  {
+    "deal_id": "D284",
+    "account_id": "A32",
+    "rep_id": "R12",
+    "stage": "Prospecting",
+    "amount": 57725,
+    "created_at": "2025-08-17",
+    "closed_at": "2025-09-02"
+  },
+  {
+    "deal_id": "D285",
+    "account_id": "A18",
+    "rep_id": "R9",
+    "stage": "Closed Won",
+    "amount": 35692,
+    "created_at": "2025-04-30",
+    "closed_at": "2025-05-17"
+  },
+  {
+    "deal_id": "D286",
+    "account_id": "A31",
+    "rep_id": "R5",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-10-23",
+    "closed_at": "2025-12-13"
+  },
+  {
+    "deal_id": "D287",
+    "account_id": "A72",
+    "rep_id": "R10",
+    "stage": "Negotiation",
+    "amount": 60994,
+    "created_at": "2025-07-31",
+    "closed_at": "2025-08-17"
+  },
+  {
+    "deal_id": "D288",
+    "account_id": "A101",
+    "rep_id": "R9",
+    "stage": "Closed Won",
+    "amount": 59568,
+    "created_at": "2025-01-25",
+    "closed_at": "2025-03-24"
+  },
+  {
+    "deal_id": "D289",
+    "account_id": "A24",
+    "rep_id": "R13",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-03-18",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D290",
+    "account_id": "A104",
+    "rep_id": "R8",
+    "stage": "Prospecting",
+    "amount": 78713,
+    "created_at": "2025-06-03",
+    "closed_at": "2025-07-01"
+  },
+  {
+    "deal_id": "D291",
+    "account_id": "A50",
+    "rep_id": "R4",
+    "stage": "Closed Won",
+    "amount": 31651,
+    "created_at": "2025-08-02",
+    "closed_at": "2025-08-29"
+  },
+  {
+    "deal_id": "D292",
+    "account_id": "A58",
+    "rep_id": "R14",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-11-28",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D293",
+    "account_id": "A87",
+    "rep_id": "R10",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-01-27",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D294",
+    "account_id": "A62",
+    "rep_id": "R4",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-10-28",
+    "closed_at": "2025-12-04"
+  },
+  {
+    "deal_id": "D295",
+    "account_id": "A96",
+    "rep_id": "R13",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-04-19",
+    "closed_at": "2025-05-14"
+  },
+  {
+    "deal_id": "D296",
+    "account_id": "A42",
+    "rep_id": "R13",
+    "stage": "Closed Won",
+    "amount": 54894,
+    "created_at": "2025-07-23",
+    "closed_at": "2025-10-11"
+  },
+  {
+    "deal_id": "D297",
+    "account_id": "A34",
+    "rep_id": "R6",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-10-01",
+    "closed_at": "2025-11-19"
+  },
+  {
+    "deal_id": "D298",
+    "account_id": "A118",
+    "rep_id": "R4",
+    "stage": "Closed Won",
+    "amount": 46015,
+    "created_at": "2025-08-29",
+    "closed_at": "2025-10-18"
+  },
+  {
+    "deal_id": "D299",
+    "account_id": "A95",
+    "rep_id": "R3",
+    "stage": "Prospecting",
+    "amount": 39180,
+    "created_at": "2025-01-24",
+    "closed_at": "2025-03-03"
+  },
+  {
+    "deal_id": "D300",
+    "account_id": "A43",
+    "rep_id": "R4",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-06-01",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D301",
+    "account_id": "A33",
+    "rep_id": "R13",
+    "stage": "Closed Lost",
+    "amount": 69303,
+    "created_at": "2025-09-13",
+    "closed_at": "2025-11-05"
+  },
+  {
+    "deal_id": "D302",
+    "account_id": "A22",
+    "rep_id": "R3",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-03-28",
+    "closed_at": "2025-05-22"
+  },
+  {
+    "deal_id": "D303",
+    "account_id": "A109",
+    "rep_id": "R2",
+    "stage": "Prospecting",
+    "amount": 5836,
+    "created_at": "2025-09-26",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D304",
+    "account_id": "A9",
+    "rep_id": "R12",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-03-12",
+    "closed_at": "2025-04-20"
+  },
+  {
+    "deal_id": "D305",
+    "account_id": "A80",
+    "rep_id": "R11",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-09-16",
+    "closed_at": "2025-10-03"
+  },
+  {
+    "deal_id": "D306",
+    "account_id": "A2",
+    "rep_id": "R1",
+    "stage": "Closed Won",
+    "amount": 75220,
+    "created_at": "2025-01-04",
+    "closed_at": "2025-03-07"
+  },
+  {
+    "deal_id": "D307",
+    "account_id": "A104",
+    "rep_id": "R15",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-01-09",
+    "closed_at": "2025-03-15"
+  },
+  {
+    "deal_id": "D308",
+    "account_id": "A25",
+    "rep_id": "R10",
+    "stage": "Closed Won",
+    "amount": 51457,
+    "created_at": "2025-09-26",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D309",
+    "account_id": "A52",
+    "rep_id": "R8",
+    "stage": "Negotiation",
+    "amount": 34603,
+    "created_at": "2025-07-23",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D310",
+    "account_id": "A84",
+    "rep_id": "R14",
+    "stage": "Prospecting",
+    "amount": 17255,
+    "created_at": "2025-12-17",
+    "closed_at": "2026-01-06"
+  },
+  {
+    "deal_id": "D311",
+    "account_id": "A8",
+    "rep_id": "R11",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-07-14",
+    "closed_at": "2025-09-22"
+  },
+  {
+    "deal_id": "D312",
+    "account_id": "A73",
+    "rep_id": "R14",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-09-13",
+    "closed_at": "2025-11-04"
+  },
+  {
+    "deal_id": "D313",
+    "account_id": "A112",
+    "rep_id": "R12",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-04-28",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D314",
+    "account_id": "A116",
+    "rep_id": "R9",
+    "stage": "Prospecting",
+    "amount": 28508,
+    "created_at": "2025-02-08",
+    "closed_at": "2025-03-25"
+  },
+  {
+    "deal_id": "D315",
+    "account_id": "A97",
+    "rep_id": "R14",
+    "stage": "Closed Lost",
+    "amount": 15084,
+    "created_at": "2025-01-09",
+    "closed_at": "2025-02-06"
+  },
+  {
+    "deal_id": "D316",
+    "account_id": "A87",
+    "rep_id": "R15",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-03-25",
+    "closed_at": "2025-05-23"
+  },
+  {
+    "deal_id": "D317",
+    "account_id": "A96",
+    "rep_id": "R6",
+    "stage": "Prospecting",
+    "amount": 17803,
+    "created_at": "2025-12-19",
+    "closed_at": "2026-03-03"
+  },
+  {
+    "deal_id": "D318",
+    "account_id": "A78",
+    "rep_id": "R13",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-04-29",
+    "closed_at": "2025-06-21"
+  },
+  {
+    "deal_id": "D319",
+    "account_id": "A58",
+    "rep_id": "R8",
+    "stage": "Negotiation",
+    "amount": 51636,
+    "created_at": "2025-11-21",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D320",
+    "account_id": "A75",
+    "rep_id": "R11",
+    "stage": "Closed Lost",
+    "amount": 16232,
+    "created_at": "2025-08-10",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D321",
+    "account_id": "A35",
+    "rep_id": "R3",
+    "stage": "Closed Lost",
+    "amount": 25221,
+    "created_at": "2025-05-07",
+    "closed_at": "2025-05-27"
+  },
+  {
+    "deal_id": "D322",
+    "account_id": "A1",
+    "rep_id": "R5",
+    "stage": "Closed Lost",
+    "amount": 52175,
+    "created_at": "2025-06-12",
+    "closed_at": "2025-07-03"
+  },
+  {
+    "deal_id": "D323",
+    "account_id": "A24",
+    "rep_id": "R7",
+    "stage": "Closed Lost",
+    "amount": 78005,
+    "created_at": "2025-02-22",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D324",
+    "account_id": "A46",
+    "rep_id": "R9",
+    "stage": "Prospecting",
+    "amount": 47523,
+    "created_at": "2025-02-22",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D325",
+    "account_id": "A50",
+    "rep_id": "R13",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-01-07",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D326",
+    "account_id": "A22",
+    "rep_id": "R3",
+    "stage": "Closed Won",
+    "amount": 44469,
+    "created_at": "2025-10-20",
+    "closed_at": "2025-12-17"
+  },
+  {
+    "deal_id": "D327",
+    "account_id": "A22",
+    "rep_id": "R7",
+    "stage": "Closed Won",
+    "amount": 60194,
+    "created_at": "2025-09-10",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D328",
+    "account_id": "A33",
+    "rep_id": "R4",
+    "stage": "Closed Lost",
+    "amount": 30630,
+    "created_at": "2025-09-05",
+    "closed_at": "2025-10-31"
+  },
+  {
+    "deal_id": "D329",
+    "account_id": "A1",
+    "rep_id": "R7",
+    "stage": "Closed Won",
+    "amount": 54792,
+    "created_at": "2025-02-24",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D330",
+    "account_id": "A39",
+    "rep_id": "R6",
+    "stage": "Negotiation",
+    "amount": 67784,
+    "created_at": "2025-08-14",
+    "closed_at": "2025-09-10"
+  },
+  {
+    "deal_id": "D331",
+    "account_id": "A38",
+    "rep_id": "R12",
+    "stage": "Closed Lost",
+    "amount": 36775,
+    "created_at": "2025-04-01",
+    "closed_at": "2025-05-21"
+  },
+  {
+    "deal_id": "D332",
+    "account_id": "A101",
+    "rep_id": "R7",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-07-12",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D333",
+    "account_id": "A88",
+    "rep_id": "R13",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-10-31",
+    "closed_at": "2025-12-03"
+  },
+  {
+    "deal_id": "D334",
+    "account_id": "A105",
+    "rep_id": "R14",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-08-13",
+    "closed_at": "2025-08-31"
+  },
+  {
+    "deal_id": "D335",
+    "account_id": "A85",
+    "rep_id": "R3",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-11-21",
+    "closed_at": "2026-01-02"
+  },
+  {
+    "deal_id": "D336",
+    "account_id": "A75",
+    "rep_id": "R7",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-08-18",
+    "closed_at": "2025-10-28"
+  },
+  {
+    "deal_id": "D337",
+    "account_id": "A77",
+    "rep_id": "R11",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-07-04",
+    "closed_at": "2025-09-20"
+  },
+  {
+    "deal_id": "D338",
+    "account_id": "A83",
+    "rep_id": "R10",
+    "stage": "Prospecting",
+    "amount": 78822,
+    "created_at": "2025-12-03",
+    "closed_at": "2026-01-03"
+  },
+  {
+    "deal_id": "D339",
+    "account_id": "A14",
+    "rep_id": "R1",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-06-19",
+    "closed_at": "2025-08-23"
+  },
+  {
+    "deal_id": "D340",
+    "account_id": "A58",
+    "rep_id": "R6",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-09-19",
+    "closed_at": "2025-10-27"
+  },
+  {
+    "deal_id": "D341",
+    "account_id": "A14",
+    "rep_id": "R5",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-06-26",
+    "closed_at": "2025-09-05"
+  },
+  {
+    "deal_id": "D342",
+    "account_id": "A59",
+    "rep_id": "R13",
+    "stage": "Negotiation",
+    "amount": 73303,
+    "created_at": "2025-03-14",
+    "closed_at": "2025-05-06"
+  },
+  {
+    "deal_id": "D343",
+    "account_id": "A93",
+    "rep_id": "R12",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-06-28",
+    "closed_at": "2025-09-02"
+  },
+  {
+    "deal_id": "D344",
+    "account_id": "A91",
+    "rep_id": "R2",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-06-03",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D345",
+    "account_id": "A67",
+    "rep_id": "R3",
+    "stage": "Negotiation",
+    "amount": 48383,
+    "created_at": "2025-12-13",
+    "closed_at": "2026-01-23"
+  },
+  {
+    "deal_id": "D346",
+    "account_id": "A52",
+    "rep_id": "R11",
+    "stage": "Negotiation",
+    "amount": 29430,
+    "created_at": "2025-08-25",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D347",
+    "account_id": "A79",
+    "rep_id": "R15",
+    "stage": "Negotiation",
+    "amount": 63926,
+    "created_at": "2025-07-22",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D348",
+    "account_id": "A28",
+    "rep_id": "R4",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-07-19",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D349",
+    "account_id": "A42",
+    "rep_id": "R4",
+    "stage": "Closed Lost",
+    "amount": 19936,
+    "created_at": "2025-10-02",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D350",
+    "account_id": "A82",
+    "rep_id": "R6",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-12-10",
+    "closed_at": "2026-02-25"
+  },
+  {
+    "deal_id": "D351",
+    "account_id": "A80",
+    "rep_id": "R3",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-06-28",
+    "closed_at": "2025-09-04"
+  },
+  {
+    "deal_id": "D352",
+    "account_id": "A40",
+    "rep_id": "R2",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-06-10",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D353",
+    "account_id": "A74",
+    "rep_id": "R7",
+    "stage": "Closed Lost",
+    "amount": 29347,
+    "created_at": "2025-09-19",
+    "closed_at": "2025-10-16"
+  },
+  {
+    "deal_id": "D354",
+    "account_id": "A72",
+    "rep_id": "R3",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-11-22",
+    "closed_at": "2025-12-24"
+  },
+  {
+    "deal_id": "D355",
+    "account_id": "A80",
+    "rep_id": "R1",
+    "stage": "Closed Won",
+    "amount": 6256,
+    "created_at": "2025-04-06",
+    "closed_at": "2025-06-12"
+  },
+  {
+    "deal_id": "D356",
+    "account_id": "A50",
+    "rep_id": "R9",
+    "stage": "Closed Lost",
+    "amount": 58626,
+    "created_at": "2025-03-11",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D357",
+    "account_id": "A63",
+    "rep_id": "R3",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-08-01",
+    "closed_at": "2025-10-06"
+  },
+  {
+    "deal_id": "D358",
+    "account_id": "A36",
+    "rep_id": "R4",
+    "stage": "Closed Won",
+    "amount": 27047,
+    "created_at": "2025-04-23",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D359",
+    "account_id": "A71",
+    "rep_id": "R9",
+    "stage": "Prospecting",
+    "amount": 19969,
+    "created_at": "2025-10-17",
+    "closed_at": "2025-12-29"
+  },
+  {
+    "deal_id": "D360",
+    "account_id": "A70",
+    "rep_id": "R14",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-10-06",
+    "closed_at": "2025-12-01"
+  },
+  {
+    "deal_id": "D361",
+    "account_id": "A107",
+    "rep_id": "R11",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-08-06",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D362",
+    "account_id": "A111",
+    "rep_id": "R14",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-08-19",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D363",
+    "account_id": "A95",
+    "rep_id": "R10",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-05-02",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D364",
+    "account_id": "A27",
+    "rep_id": "R14",
+    "stage": "Negotiation",
+    "amount": 12780,
+    "created_at": "2025-11-12",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D365",
+    "account_id": "A69",
+    "rep_id": "R3",
+    "stage": "Closed Won",
+    "amount": 43356,
+    "created_at": "2025-09-30",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D366",
+    "account_id": "A110",
+    "rep_id": "R9",
+    "stage": "Prospecting",
+    "amount": 22771,
+    "created_at": "2025-10-21",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D367",
+    "account_id": "A90",
+    "rep_id": "R14",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-01-31",
+    "closed_at": "2025-02-26"
+  },
+  {
+    "deal_id": "D368",
+    "account_id": "A63",
+    "rep_id": "R3",
+    "stage": "Closed Won",
+    "amount": 59293,
+    "created_at": "2025-06-14",
+    "closed_at": "2025-08-13"
+  },
+  {
+    "deal_id": "D369",
+    "account_id": "A102",
+    "rep_id": "R15",
+    "stage": "Prospecting",
+    "amount": 57802,
+    "created_at": "2025-08-20",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D370",
+    "account_id": "A59",
+    "rep_id": "R8",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-12-22",
+    "closed_at": "2026-02-17"
+  },
+  {
+    "deal_id": "D371",
+    "account_id": "A109",
+    "rep_id": "R2",
+    "stage": "Closed Lost",
+    "amount": 33551,
+    "created_at": "2025-08-23",
+    "closed_at": "2025-10-17"
+  },
+  {
+    "deal_id": "D372",
+    "account_id": "A107",
+    "rep_id": "R5",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-04-19",
+    "closed_at": "2025-06-09"
+  },
+  {
+    "deal_id": "D373",
+    "account_id": "A115",
+    "rep_id": "R11",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-10-17",
+    "closed_at": "2025-12-09"
+  },
+  {
+    "deal_id": "D374",
+    "account_id": "A3",
+    "rep_id": "R2",
+    "stage": "Negotiation",
+    "amount": 62840,
+    "created_at": "2025-11-17",
+    "closed_at": "2026-01-24"
+  },
+  {
+    "deal_id": "D375",
+    "account_id": "A26",
+    "rep_id": "R12",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-01-01",
+    "closed_at": "2025-03-06"
+  },
+  {
+    "deal_id": "D376",
+    "account_id": "A47",
+    "rep_id": "R5",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-05-21",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D377",
+    "account_id": "A93",
+    "rep_id": "R12",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-01-27",
+    "closed_at": "2025-03-17"
+  },
+  {
+    "deal_id": "D378",
+    "account_id": "A28",
+    "rep_id": "R8",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-12-27",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D379",
+    "account_id": "A2",
+    "rep_id": "R12",
+    "stage": "Closed Won",
+    "amount": 20806,
+    "created_at": "2025-09-23",
+    "closed_at": "2025-10-04"
+  },
+  {
+    "deal_id": "D380",
+    "account_id": "A10",
+    "rep_id": "R4",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-12-22",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D381",
+    "account_id": "A18",
+    "rep_id": "R7",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-02-22",
+    "closed_at": "2025-04-11"
+  },
+  {
+    "deal_id": "D382",
+    "account_id": "A57",
+    "rep_id": "R6",
+    "stage": "Negotiation",
+    "amount": 24840,
+    "created_at": "2025-09-29",
+    "closed_at": "2025-10-30"
+  },
+  {
+    "deal_id": "D383",
+    "account_id": "A12",
+    "rep_id": "R15",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-11-12",
+    "closed_at": "2025-12-19"
+  },
+  {
+    "deal_id": "D384",
+    "account_id": "A55",
+    "rep_id": "R6",
+    "stage": "Negotiation",
+    "amount": 37477,
+    "created_at": "2025-10-29",
+    "closed_at": "2025-12-22"
+  },
+  {
+    "deal_id": "D385",
+    "account_id": "A71",
+    "rep_id": "R10",
+    "stage": "Closed Won",
+    "amount": 8515,
+    "created_at": "2025-11-27",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D386",
+    "account_id": "A25",
+    "rep_id": "R12",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-04-16",
+    "closed_at": "2025-06-30"
+  },
+  {
+    "deal_id": "D387",
+    "account_id": "A31",
+    "rep_id": "R8",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-05-03",
+    "closed_at": "2025-05-27"
+  },
+  {
+    "deal_id": "D388",
+    "account_id": "A50",
+    "rep_id": "R14",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-07-04",
+    "closed_at": "2025-07-30"
+  },
+  {
+    "deal_id": "D389",
+    "account_id": "A3",
+    "rep_id": "R10",
+    "stage": "Prospecting",
+    "amount": 6807,
+    "created_at": "2025-08-30",
+    "closed_at": "2025-09-18"
+  },
+  {
+    "deal_id": "D390",
+    "account_id": "A8",
+    "rep_id": "R13",
+    "stage": "Closed Lost",
+    "amount": 71402,
+    "created_at": "2025-04-21",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D391",
+    "account_id": "A55",
+    "rep_id": "R12",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-11-18",
+    "closed_at": "2026-01-20"
+  },
+  {
+    "deal_id": "D392",
+    "account_id": "A11",
+    "rep_id": "R9",
+    "stage": "Negotiation",
+    "amount": 25365,
+    "created_at": "2025-05-23",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D393",
+    "account_id": "A40",
+    "rep_id": "R12",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-07-20",
+    "closed_at": "2025-08-07"
+  },
+  {
+    "deal_id": "D394",
+    "account_id": "A56",
+    "rep_id": "R2",
+    "stage": "Closed Lost",
+    "amount": 12212,
+    "created_at": "2025-05-06",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D395",
+    "account_id": "A16",
+    "rep_id": "R1",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-12-08",
+    "closed_at": "2026-01-09"
+  },
+  {
+    "deal_id": "D396",
+    "account_id": "A67",
+    "rep_id": "R13",
+    "stage": "Closed Won",
+    "amount": 26884,
+    "created_at": "2025-09-12",
+    "closed_at": "2025-11-27"
+  },
+  {
+    "deal_id": "D397",
+    "account_id": "A94",
+    "rep_id": "R15",
+    "stage": "Prospecting",
+    "amount": 8847,
+    "created_at": "2025-03-06",
+    "closed_at": "2025-04-19"
+  },
+  {
+    "deal_id": "D398",
+    "account_id": "A9",
+    "rep_id": "R5",
+    "stage": "Prospecting",
+    "amount": 70031,
+    "created_at": "2025-08-08",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D399",
+    "account_id": "A110",
+    "rep_id": "R10",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-09-19",
+    "closed_at": "2025-12-01"
+  },
+  {
+    "deal_id": "D400",
+    "account_id": "A30",
+    "rep_id": "R12",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-05-11",
+    "closed_at": "2025-06-04"
+  },
+  {
+    "deal_id": "D401",
+    "account_id": "A47",
+    "rep_id": "R7",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-05-06",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D402",
+    "account_id": "A29",
+    "rep_id": "R6",
+    "stage": "Negotiation",
+    "amount": 59559,
+    "created_at": "2025-10-11",
+    "closed_at": "2025-12-13"
+  },
+  {
+    "deal_id": "D403",
+    "account_id": "A16",
+    "rep_id": "R9",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-05-19",
+    "closed_at": "2025-07-15"
+  },
+  {
+    "deal_id": "D404",
+    "account_id": "A9",
+    "rep_id": "R15",
+    "stage": "Closed Lost",
+    "amount": 42002,
+    "created_at": "2025-09-22",
+    "closed_at": "2025-11-22"
+  },
+  {
+    "deal_id": "D405",
+    "account_id": "A59",
+    "rep_id": "R1",
+    "stage": "Closed Won",
+    "amount": 31302,
+    "created_at": "2025-06-17",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D406",
+    "account_id": "A60",
+    "rep_id": "R6",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-10-16",
+    "closed_at": "2025-11-26"
+  },
+  {
+    "deal_id": "D407",
+    "account_id": "A53",
+    "rep_id": "R1",
+    "stage": "Negotiation",
+    "amount": 75981,
+    "created_at": "2025-03-19",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D408",
+    "account_id": "A43",
+    "rep_id": "R1",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-11-22",
+    "closed_at": "2025-12-03"
+  },
+  {
+    "deal_id": "D409",
+    "account_id": "A54",
+    "rep_id": "R8",
+    "stage": "Prospecting",
+    "amount": 23661,
+    "created_at": "2025-04-16",
+    "closed_at": "2025-05-26"
+  },
+  {
+    "deal_id": "D410",
+    "account_id": "A30",
+    "rep_id": "R15",
+    "stage": "Closed Lost",
+    "amount": 53823,
+    "created_at": "2025-02-17",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D411",
+    "account_id": "A18",
+    "rep_id": "R11",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-02-13",
+    "closed_at": "2025-04-28"
+  },
+  {
+    "deal_id": "D412",
+    "account_id": "A31",
+    "rep_id": "R5",
+    "stage": "Closed Won",
+    "amount": 46288,
+    "created_at": "2025-08-11",
+    "closed_at": "2025-09-06"
+  },
+  {
+    "deal_id": "D413",
+    "account_id": "A41",
+    "rep_id": "R8",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-12-25",
+    "closed_at": "2026-02-14"
+  },
+  {
+    "deal_id": "D414",
+    "account_id": "A99",
+    "rep_id": "R10",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-04-14",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D415",
+    "account_id": "A53",
+    "rep_id": "R2",
+    "stage": "Closed Won",
+    "amount": 32215,
+    "created_at": "2025-03-26",
+    "closed_at": "2025-05-15"
+  },
+  {
+    "deal_id": "D416",
+    "account_id": "A12",
+    "rep_id": "R3",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-06-07",
+    "closed_at": "2025-07-02"
+  },
+  {
+    "deal_id": "D417",
+    "account_id": "A92",
+    "rep_id": "R4",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-06-17",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D418",
+    "account_id": "A105",
+    "rep_id": "R3",
+    "stage": "Prospecting",
+    "amount": 58004,
+    "created_at": "2025-12-13",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D419",
+    "account_id": "A13",
+    "rep_id": "R8",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-10-12",
+    "closed_at": "2025-11-22"
+  },
+  {
+    "deal_id": "D420",
+    "account_id": "A100",
+    "rep_id": "R4",
+    "stage": "Negotiation",
+    "amount": 30969,
+    "created_at": "2025-01-07",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D421",
+    "account_id": "A75",
+    "rep_id": "R10",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-07-10",
+    "closed_at": "2025-07-30"
+  },
+  {
+    "deal_id": "D422",
+    "account_id": "A83",
+    "rep_id": "R8",
+    "stage": "Negotiation",
+    "amount": 17055,
+    "created_at": "2025-02-03",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D423",
+    "account_id": "A60",
+    "rep_id": "R1",
+    "stage": "Negotiation",
+    "amount": 61774,
+    "created_at": "2025-03-04",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D424",
+    "account_id": "A88",
+    "rep_id": "R7",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-09-12",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D425",
+    "account_id": "A58",
+    "rep_id": "R15",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-04-06",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D426",
+    "account_id": "A53",
+    "rep_id": "R15",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-11-28",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D427",
+    "account_id": "A26",
+    "rep_id": "R11",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-05-24",
+    "closed_at": "2025-07-26"
+  },
+  {
+    "deal_id": "D428",
+    "account_id": "A62",
+    "rep_id": "R9",
+    "stage": "Closed Lost",
+    "amount": 50093,
+    "created_at": "2025-07-15",
+    "closed_at": "2025-09-08"
+  },
+  {
+    "deal_id": "D429",
+    "account_id": "A4",
+    "rep_id": "R6",
+    "stage": "Negotiation",
+    "amount": 8840,
+    "created_at": "2025-07-18",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D430",
+    "account_id": "A68",
+    "rep_id": "R6",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-01-30",
+    "closed_at": "2025-04-10"
+  },
+  {
+    "deal_id": "D431",
+    "account_id": "A69",
+    "rep_id": "R14",
+    "stage": "Prospecting",
+    "amount": 33758,
+    "created_at": "2025-05-07",
+    "closed_at": "2025-06-20"
+  },
+  {
+    "deal_id": "D432",
+    "account_id": "A23",
+    "rep_id": "R4",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-07-01",
+    "closed_at": "2025-08-02"
+  },
+  {
+    "deal_id": "D433",
+    "account_id": "A73",
+    "rep_id": "R4",
+    "stage": "Closed Lost",
+    "amount": 76057,
+    "created_at": "2025-12-27",
+    "closed_at": "2026-01-24"
+  },
+  {
+    "deal_id": "D434",
+    "account_id": "A8",
+    "rep_id": "R4",
+    "stage": "Negotiation",
+    "amount": 7612,
+    "created_at": "2025-03-31",
+    "closed_at": "2025-04-21"
+  },
+  {
+    "deal_id": "D435",
+    "account_id": "A104",
+    "rep_id": "R3",
+    "stage": "Closed Won",
+    "amount": 28260,
+    "created_at": "2025-01-01",
+    "closed_at": "2025-02-05"
+  },
+  {
+    "deal_id": "D436",
+    "account_id": "A76",
+    "rep_id": "R12",
+    "stage": "Negotiation",
+    "amount": 19538,
+    "created_at": "2025-01-31",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D437",
+    "account_id": "A76",
+    "rep_id": "R2",
+    "stage": "Closed Won",
+    "amount": 44552,
+    "created_at": "2025-02-07",
+    "closed_at": "2025-04-08"
+  },
+  {
+    "deal_id": "D438",
+    "account_id": "A102",
+    "rep_id": "R11",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-03-11",
+    "closed_at": "2025-05-15"
+  },
+  {
+    "deal_id": "D439",
+    "account_id": "A29",
+    "rep_id": "R11",
+    "stage": "Negotiation",
+    "amount": 54595,
+    "created_at": "2025-10-15",
+    "closed_at": "2025-12-09"
+  },
+  {
+    "deal_id": "D440",
+    "account_id": "A23",
+    "rep_id": "R12",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-12-19",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D441",
+    "account_id": "A82",
+    "rep_id": "R10",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-04-04",
+    "closed_at": "2025-05-12"
+  },
+  {
+    "deal_id": "D442",
+    "account_id": "A45",
+    "rep_id": "R6",
+    "stage": "Negotiation",
+    "amount": 16629,
+    "created_at": "2025-06-19",
+    "closed_at": "2025-07-29"
+  },
+  {
+    "deal_id": "D443",
+    "account_id": "A27",
+    "rep_id": "R4",
+    "stage": "Prospecting",
+    "amount": 50938,
+    "created_at": "2025-08-17",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D444",
+    "account_id": "A50",
+    "rep_id": "R8",
+    "stage": "Closed Lost",
+    "amount": 26802,
+    "created_at": "2025-02-25",
+    "closed_at": "2025-03-13"
+  },
+  {
+    "deal_id": "D445",
+    "account_id": "A70",
+    "rep_id": "R7",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-09-10",
+    "closed_at": "2025-11-03"
+  },
+  {
+    "deal_id": "D446",
+    "account_id": "A38",
+    "rep_id": "R1",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-03-25",
+    "closed_at": "2025-04-08"
+  },
+  {
+    "deal_id": "D447",
+    "account_id": "A21",
+    "rep_id": "R12",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-02-07",
+    "closed_at": "2025-04-06"
+  },
+  {
+    "deal_id": "D448",
+    "account_id": "A91",
+    "rep_id": "R1",
+    "stage": "Closed Lost",
+    "amount": 26626,
+    "created_at": "2025-06-23",
+    "closed_at": "2025-09-02"
+  },
+  {
+    "deal_id": "D449",
+    "account_id": "A43",
+    "rep_id": "R4",
+    "stage": "Negotiation",
+    "amount": 58645,
+    "created_at": "2025-03-22",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D450",
+    "account_id": "A31",
+    "rep_id": "R2",
+    "stage": "Prospecting",
+    "amount": 56498,
+    "created_at": "2025-12-05",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D451",
+    "account_id": "A1",
+    "rep_id": "R7",
+    "stage": "Prospecting",
+    "amount": 43607,
+    "created_at": "2025-03-20",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D452",
+    "account_id": "A27",
+    "rep_id": "R3",
+    "stage": "Closed Won",
+    "amount": 15739,
+    "created_at": "2025-04-13",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D453",
+    "account_id": "A61",
+    "rep_id": "R8",
+    "stage": "Closed Won",
+    "amount": 16945,
+    "created_at": "2025-03-01",
+    "closed_at": "2025-04-30"
+  },
+  {
+    "deal_id": "D454",
+    "account_id": "A48",
+    "rep_id": "R3",
+    "stage": "Closed Lost",
+    "amount": 10848,
+    "created_at": "2025-04-05",
+    "closed_at": "2025-06-02"
+  },
+  {
+    "deal_id": "D455",
+    "account_id": "A108",
+    "rep_id": "R5",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-08-14",
+    "closed_at": "2025-09-21"
+  },
+  {
+    "deal_id": "D456",
+    "account_id": "A53",
+    "rep_id": "R13",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-02-13",
+    "closed_at": "2025-05-03"
+  },
+  {
+    "deal_id": "D457",
+    "account_id": "A69",
+    "rep_id": "R11",
+    "stage": "Closed Lost",
+    "amount": 35886,
+    "created_at": "2025-07-18",
+    "closed_at": "2025-09-19"
+  },
+  {
+    "deal_id": "D458",
+    "account_id": "A116",
+    "rep_id": "R14",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-06-03",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D459",
+    "account_id": "A23",
+    "rep_id": "R3",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-03-03",
+    "closed_at": "2025-05-09"
+  },
+  {
+    "deal_id": "D460",
+    "account_id": "A26",
+    "rep_id": "R14",
+    "stage": "Negotiation",
+    "amount": 38801,
+    "created_at": "2025-01-22",
+    "closed_at": "2025-03-28"
+  },
+  {
+    "deal_id": "D461",
+    "account_id": "A72",
+    "rep_id": "R7",
+    "stage": "Closed Won",
+    "amount": 41202,
+    "created_at": "2025-02-04",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D462",
+    "account_id": "A101",
+    "rep_id": "R7",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-01-07",
+    "closed_at": "2025-03-24"
+  },
+  {
+    "deal_id": "D463",
+    "account_id": "A119",
+    "rep_id": "R2",
+    "stage": "Prospecting",
+    "amount": 42498,
+    "created_at": "2025-03-17",
+    "closed_at": "2025-04-08"
+  },
+  {
+    "deal_id": "D464",
+    "account_id": "A84",
+    "rep_id": "R8",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-07-30",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D465",
+    "account_id": "A5",
+    "rep_id": "R7",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-05-22",
+    "closed_at": "2025-07-22"
+  },
+  {
+    "deal_id": "D466",
+    "account_id": "A3",
+    "rep_id": "R6",
+    "stage": "Closed Won",
+    "amount": 45756,
+    "created_at": "2025-09-01",
+    "closed_at": "2025-10-28"
+  },
+  {
+    "deal_id": "D467",
+    "account_id": "A112",
+    "rep_id": "R4",
+    "stage": "Negotiation",
+    "amount": 44384,
+    "created_at": "2025-09-09",
+    "closed_at": "2025-10-01"
+  },
+  {
+    "deal_id": "D468",
+    "account_id": "A54",
+    "rep_id": "R10",
+    "stage": "Prospecting",
+    "amount": 29633,
+    "created_at": "2025-06-14",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D469",
+    "account_id": "A95",
+    "rep_id": "R8",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-04-19",
+    "closed_at": "2025-06-20"
+  },
+  {
+    "deal_id": "D470",
+    "account_id": "A52",
+    "rep_id": "R3",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-02-03",
+    "closed_at": "2025-04-18"
+  },
+  {
+    "deal_id": "D471",
+    "account_id": "A5",
+    "rep_id": "R8",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-04-13",
+    "closed_at": "2025-05-24"
+  },
+  {
+    "deal_id": "D472",
+    "account_id": "A65",
+    "rep_id": "R7",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-05-21",
+    "closed_at": "2025-07-29"
+  },
+  {
+    "deal_id": "D473",
+    "account_id": "A23",
+    "rep_id": "R14",
+    "stage": "Closed Lost",
+    "amount": 77264,
+    "created_at": "2025-07-10",
+    "closed_at": "2025-09-15"
+  },
+  {
+    "deal_id": "D474",
+    "account_id": "A115",
+    "rep_id": "R5",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-06-26",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D475",
+    "account_id": "A110",
+    "rep_id": "R10",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-07-17",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D476",
+    "account_id": "A84",
+    "rep_id": "R7",
+    "stage": "Prospecting",
+    "amount": 6166,
+    "created_at": "2025-12-13",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D477",
+    "account_id": "A29",
+    "rep_id": "R5",
+    "stage": "Closed Won",
+    "amount": 41094,
+    "created_at": "2025-03-09",
+    "closed_at": "2025-03-20"
+  },
+  {
+    "deal_id": "D478",
+    "account_id": "A33",
+    "rep_id": "R4",
+    "stage": "Closed Lost",
+    "amount": 44602,
+    "created_at": "2025-07-12",
+    "closed_at": "2025-09-18"
+  },
+  {
+    "deal_id": "D479",
+    "account_id": "A66",
+    "rep_id": "R11",
+    "stage": "Closed Won",
+    "amount": 78591,
+    "created_at": "2025-10-27",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D480",
+    "account_id": "A9",
+    "rep_id": "R6",
+    "stage": "Closed Won",
+    "amount": 47616,
+    "created_at": "2025-06-02",
+    "closed_at": "2025-08-12"
+  },
+  {
+    "deal_id": "D481",
+    "account_id": "A25",
+    "rep_id": "R3",
+    "stage": "Negotiation",
+    "amount": 12441,
+    "created_at": "2025-05-14",
+    "closed_at": "2025-07-01"
+  },
+  {
+    "deal_id": "D482",
+    "account_id": "A93",
+    "rep_id": "R1",
+    "stage": "Closed Lost",
+    "amount": 43745,
+    "created_at": "2025-12-05",
+    "closed_at": "2026-01-01"
+  },
+  {
+    "deal_id": "D483",
+    "account_id": "A75",
+    "rep_id": "R12",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-08-03",
+    "closed_at": "2025-08-17"
+  },
+  {
+    "deal_id": "D484",
+    "account_id": "A117",
+    "rep_id": "R11",
+    "stage": "Closed Won",
+    "amount": 71494,
+    "created_at": "2025-12-18",
+    "closed_at": "2026-02-26"
+  },
+  {
+    "deal_id": "D485",
+    "account_id": "A38",
+    "rep_id": "R2",
+    "stage": "Closed Lost",
+    "amount": 21769,
+    "created_at": "2025-03-29",
+    "closed_at": "2025-05-01"
+  },
+  {
+    "deal_id": "D486",
+    "account_id": "A88",
+    "rep_id": "R15",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-10-14",
+    "closed_at": "2025-11-16"
+  },
+  {
+    "deal_id": "D487",
+    "account_id": "A112",
+    "rep_id": "R5",
+    "stage": "Closed Lost",
+    "amount": 48426,
+    "created_at": "2025-07-01",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D488",
+    "account_id": "A109",
+    "rep_id": "R2",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-05-14",
+    "closed_at": "2025-07-22"
+  },
+  {
+    "deal_id": "D489",
+    "account_id": "A16",
+    "rep_id": "R14",
+    "stage": "Closed Lost",
+    "amount": 74446,
+    "created_at": "2025-08-30",
+    "closed_at": "2025-11-12"
+  },
+  {
+    "deal_id": "D490",
+    "account_id": "A110",
+    "rep_id": "R3",
+    "stage": "Negotiation",
+    "amount": 31253,
+    "created_at": "2025-07-31",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D491",
+    "account_id": "A19",
+    "rep_id": "R6",
+    "stage": "Negotiation",
+    "amount": 15592,
+    "created_at": "2025-07-29",
+    "closed_at": "2025-10-05"
+  },
+  {
+    "deal_id": "D492",
+    "account_id": "A41",
+    "rep_id": "R11",
+    "stage": "Prospecting",
+    "amount": 5617,
+    "created_at": "2025-06-20",
+    "closed_at": "2025-07-22"
+  },
+  {
+    "deal_id": "D493",
+    "account_id": "A100",
+    "rep_id": "R3",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-05-21",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D494",
+    "account_id": "A52",
+    "rep_id": "R7",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-03-08",
+    "closed_at": "2025-05-11"
+  },
+  {
+    "deal_id": "D495",
+    "account_id": "A2",
+    "rep_id": "R15",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-01-20",
+    "closed_at": "2025-03-18"
+  },
+  {
+    "deal_id": "D496",
+    "account_id": "A29",
+    "rep_id": "R12",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-01-10",
+    "closed_at": "2025-02-20"
+  },
+  {
+    "deal_id": "D497",
+    "account_id": "A22",
+    "rep_id": "R2",
+    "stage": "Prospecting",
+    "amount": 44085,
+    "created_at": "2025-02-22",
+    "closed_at": "2025-04-12"
+  },
+  {
+    "deal_id": "D498",
+    "account_id": "A44",
+    "rep_id": "R7",
+    "stage": "Negotiation",
+    "amount": 49922,
+    "created_at": "2025-08-22",
+    "closed_at": "2025-11-07"
+  },
+  {
+    "deal_id": "D499",
+    "account_id": "A117",
+    "rep_id": "R15",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-07-03",
+    "closed_at": "2025-08-03"
+  },
+  {
+    "deal_id": "D500",
+    "account_id": "A28",
+    "rep_id": "R12",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-04-25",
+    "closed_at": "2025-05-21"
+  },
+  {
+    "deal_id": "D501",
+    "account_id": "A49",
+    "rep_id": "R15",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-03-05",
+    "closed_at": "2025-03-19"
+  },
+  {
+    "deal_id": "D502",
+    "account_id": "A84",
+    "rep_id": "R14",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-11-01",
+    "closed_at": "2025-11-24"
+  },
+  {
+    "deal_id": "D503",
+    "account_id": "A71",
+    "rep_id": "R5",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-08-02",
+    "closed_at": "2025-08-27"
+  },
+  {
+    "deal_id": "D504",
+    "account_id": "A39",
+    "rep_id": "R7",
+    "stage": "Prospecting",
+    "amount": 73197,
+    "created_at": "2025-12-22",
+    "closed_at": "2026-01-02"
+  },
+  {
+    "deal_id": "D505",
+    "account_id": "A54",
+    "rep_id": "R14",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-11-15",
+    "closed_at": "2025-12-12"
+  },
+  {
+    "deal_id": "D506",
+    "account_id": "A14",
+    "rep_id": "R8",
+    "stage": "Negotiation",
+    "amount": 31181,
+    "created_at": "2025-05-25",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D507",
+    "account_id": "A91",
+    "rep_id": "R7",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-09-25",
+    "closed_at": "2025-11-19"
+  },
+  {
+    "deal_id": "D508",
+    "account_id": "A89",
+    "rep_id": "R15",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-10-08",
+    "closed_at": "2025-11-13"
+  },
+  {
+    "deal_id": "D509",
+    "account_id": "A12",
+    "rep_id": "R15",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-01-02",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D510",
+    "account_id": "A93",
+    "rep_id": "R12",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-02-16",
+    "closed_at": "2025-03-07"
+  },
+  {
+    "deal_id": "D511",
+    "account_id": "A34",
+    "rep_id": "R8",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-08-22",
+    "closed_at": "2025-10-08"
+  },
+  {
+    "deal_id": "D512",
+    "account_id": "A103",
+    "rep_id": "R11",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-01-21",
+    "closed_at": "2025-03-18"
+  },
+  {
+    "deal_id": "D513",
+    "account_id": "A2",
+    "rep_id": "R14",
+    "stage": "Negotiation",
+    "amount": 27349,
+    "created_at": "2025-02-18",
+    "closed_at": "2025-03-05"
+  },
+  {
+    "deal_id": "D514",
+    "account_id": "A113",
+    "rep_id": "R12",
+    "stage": "Prospecting",
+    "amount": 53840,
+    "created_at": "2025-07-03",
+    "closed_at": "2025-08-16"
+  },
+  {
+    "deal_id": "D515",
+    "account_id": "A52",
+    "rep_id": "R8",
+    "stage": "Closed Won",
+    "amount": 55556,
+    "created_at": "2025-04-04",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D516",
+    "account_id": "A15",
+    "rep_id": "R3",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-08-04",
+    "closed_at": "2025-09-04"
+  },
+  {
+    "deal_id": "D517",
+    "account_id": "A103",
+    "rep_id": "R10",
+    "stage": "Closed Lost",
+    "amount": 28758,
+    "created_at": "2025-08-02",
+    "closed_at": "2025-10-12"
+  },
+  {
+    "deal_id": "D518",
+    "account_id": "A62",
+    "rep_id": "R15",
+    "stage": "Closed Lost",
+    "amount": 19802,
+    "created_at": "2025-07-03",
+    "closed_at": "2025-07-29"
+  },
+  {
+    "deal_id": "D519",
+    "account_id": "A34",
+    "rep_id": "R11",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-08-14",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D520",
+    "account_id": "A67",
+    "rep_id": "R12",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-12-09",
+    "closed_at": "2026-02-23"
+  },
+  {
+    "deal_id": "D521",
+    "account_id": "A20",
+    "rep_id": "R14",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-09-04",
+    "closed_at": "2025-11-02"
+  },
+  {
+    "deal_id": "D522",
+    "account_id": "A112",
+    "rep_id": "R3",
+    "stage": "Prospecting",
+    "amount": 69441,
+    "created_at": "2025-09-16",
+    "closed_at": "2025-11-28"
+  },
+  {
+    "deal_id": "D523",
+    "account_id": "A7",
+    "rep_id": "R9",
+    "stage": "Negotiation",
+    "amount": 77154,
+    "created_at": "2025-05-04",
+    "closed_at": "2025-06-18"
+  },
+  {
+    "deal_id": "D524",
+    "account_id": "A59",
+    "rep_id": "R8",
+    "stage": "Closed Lost",
+    "amount": 16536,
+    "created_at": "2025-07-26",
+    "closed_at": "2025-08-15"
+  },
+  {
+    "deal_id": "D525",
+    "account_id": "A96",
+    "rep_id": "R11",
+    "stage": "Prospecting",
+    "amount": 18453,
+    "created_at": "2025-08-17",
+    "closed_at": "2025-10-29"
+  },
+  {
+    "deal_id": "D526",
+    "account_id": "A71",
+    "rep_id": "R1",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-07-31",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D527",
+    "account_id": "A47",
+    "rep_id": "R14",
+    "stage": "Prospecting",
+    "amount": 34218,
+    "created_at": "2025-12-02",
+    "closed_at": "2026-01-24"
+  },
+  {
+    "deal_id": "D528",
+    "account_id": "A92",
+    "rep_id": "R11",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-06-19",
+    "closed_at": "2025-08-28"
+  },
+  {
+    "deal_id": "D529",
+    "account_id": "A1",
+    "rep_id": "R6",
+    "stage": "Closed Won",
+    "amount": 43270,
+    "created_at": "2025-02-19",
+    "closed_at": "2025-03-29"
+  },
+  {
+    "deal_id": "D530",
+    "account_id": "A115",
+    "rep_id": "R3",
+    "stage": "Closed Lost",
+    "amount": 23408,
+    "created_at": "2025-12-26",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D531",
+    "account_id": "A26",
+    "rep_id": "R4",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-02-24",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D532",
+    "account_id": "A92",
+    "rep_id": "R6",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-08-23",
+    "closed_at": "2025-09-26"
+  },
+  {
+    "deal_id": "D533",
+    "account_id": "A99",
+    "rep_id": "R15",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-11-21",
+    "closed_at": "2025-12-16"
+  },
+  {
+    "deal_id": "D534",
+    "account_id": "A95",
+    "rep_id": "R1",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-09-13",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D535",
+    "account_id": "A14",
+    "rep_id": "R7",
+    "stage": "Closed Won",
+    "amount": 71074,
+    "created_at": "2025-12-21",
+    "closed_at": "2026-01-16"
+  },
+  {
+    "deal_id": "D536",
+    "account_id": "A36",
+    "rep_id": "R7",
+    "stage": "Closed Won",
+    "amount": 43557,
+    "created_at": "2025-08-03",
+    "closed_at": "2025-09-13"
+  },
+  {
+    "deal_id": "D537",
+    "account_id": "A78",
+    "rep_id": "R12",
+    "stage": "Closed Won",
+    "amount": 76802,
+    "created_at": "2025-03-10",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D538",
+    "account_id": "A27",
+    "rep_id": "R10",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-10-11",
+    "closed_at": "2025-11-15"
+  },
+  {
+    "deal_id": "D539",
+    "account_id": "A65",
+    "rep_id": "R9",
+    "stage": "Closed Won",
+    "amount": 20126,
+    "created_at": "2025-11-29",
+    "closed_at": "2025-12-31"
+  },
+  {
+    "deal_id": "D540",
+    "account_id": "A87",
+    "rep_id": "R12",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-10-15",
+    "closed_at": "2025-12-17"
+  },
+  {
+    "deal_id": "D541",
+    "account_id": "A49",
+    "rep_id": "R3",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-09-25",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D542",
+    "account_id": "A37",
+    "rep_id": "R11",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-05-17",
+    "closed_at": "2025-06-16"
+  },
+  {
+    "deal_id": "D543",
+    "account_id": "A97",
+    "rep_id": "R9",
+    "stage": "Prospecting",
+    "amount": 52013,
+    "created_at": "2025-12-20",
+    "closed_at": "2026-01-25"
+  },
+  {
+    "deal_id": "D544",
+    "account_id": "A96",
+    "rep_id": "R11",
+    "stage": "Closed Lost",
+    "amount": 36142,
+    "created_at": "2025-02-22",
+    "closed_at": "2025-04-01"
+  },
+  {
+    "deal_id": "D545",
+    "account_id": "A50",
+    "rep_id": "R7",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-12-21",
+    "closed_at": "2026-02-17"
+  },
+  {
+    "deal_id": "D546",
+    "account_id": "A80",
+    "rep_id": "R14",
+    "stage": "Closed Lost",
+    "amount": 34563,
+    "created_at": "2025-01-07",
+    "closed_at": "2025-02-11"
+  },
+  {
+    "deal_id": "D547",
+    "account_id": "A100",
+    "rep_id": "R12",
+    "stage": "Negotiation",
+    "amount": 43558,
+    "created_at": "2025-10-29",
+    "closed_at": "2025-12-03"
+  },
+  {
+    "deal_id": "D548",
+    "account_id": "A24",
+    "rep_id": "R3",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-04-01",
+    "closed_at": "2025-04-20"
+  },
+  {
+    "deal_id": "D549",
+    "account_id": "A34",
+    "rep_id": "R3",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-08-08",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D550",
+    "account_id": "A6",
+    "rep_id": "R3",
+    "stage": "Closed Won",
+    "amount": 11665,
+    "created_at": "2025-06-19",
+    "closed_at": "2025-07-18"
+  },
+  {
+    "deal_id": "D551",
+    "account_id": "A46",
+    "rep_id": "R2",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-09-09",
+    "closed_at": "2025-11-28"
+  },
+  {
+    "deal_id": "D552",
+    "account_id": "A21",
+    "rep_id": "R7",
+    "stage": "Closed Lost",
+    "amount": 17051,
+    "created_at": "2025-04-05",
+    "closed_at": "2025-06-18"
+  },
+  {
+    "deal_id": "D553",
+    "account_id": "A43",
+    "rep_id": "R6",
+    "stage": "Closed Won",
+    "amount": 33632,
+    "created_at": "2025-04-24",
+    "closed_at": "2025-06-15"
+  },
+  {
+    "deal_id": "D554",
+    "account_id": "A15",
+    "rep_id": "R11",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-10-15",
+    "closed_at": "2025-10-26"
+  },
+  {
+    "deal_id": "D555",
+    "account_id": "A6",
+    "rep_id": "R11",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-11-25",
+    "closed_at": "2026-01-05"
+  },
+  {
+    "deal_id": "D556",
+    "account_id": "A93",
+    "rep_id": "R5",
+    "stage": "Prospecting",
+    "amount": 72746,
+    "created_at": "2025-07-17",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D557",
+    "account_id": "A63",
+    "rep_id": "R1",
+    "stage": "Closed Won",
+    "amount": 30232,
+    "created_at": "2025-09-21",
+    "closed_at": "2025-11-27"
+  },
+  {
+    "deal_id": "D558",
+    "account_id": "A13",
+    "rep_id": "R3",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-09-21",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D559",
+    "account_id": "A111",
+    "rep_id": "R11",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-12-10",
+    "closed_at": "2026-01-16"
+  },
+  {
+    "deal_id": "D560",
+    "account_id": "A83",
+    "rep_id": "R14",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-10-03",
+    "closed_at": "2025-12-07"
+  },
+  {
+    "deal_id": "D561",
+    "account_id": "A12",
+    "rep_id": "R2",
+    "stage": "Prospecting",
+    "amount": 28329,
+    "created_at": "2025-08-24",
+    "closed_at": "2025-09-07"
+  },
+  {
+    "deal_id": "D562",
+    "account_id": "A106",
+    "rep_id": "R4",
+    "stage": "Closed Won",
+    "amount": 58429,
+    "created_at": "2025-10-13",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D563",
+    "account_id": "A41",
+    "rep_id": "R1",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-08-19",
+    "closed_at": "2025-10-23"
+  },
+  {
+    "deal_id": "D564",
+    "account_id": "A97",
+    "rep_id": "R12",
+    "stage": "Prospecting",
+    "amount": 14514,
+    "created_at": "2025-11-25",
+    "closed_at": "2025-12-13"
+  },
+  {
+    "deal_id": "D565",
+    "account_id": "A101",
+    "rep_id": "R11",
+    "stage": "Closed Won",
+    "amount": 16338,
+    "created_at": "2025-09-15",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D566",
+    "account_id": "A61",
+    "rep_id": "R3",
+    "stage": "Negotiation",
+    "amount": 22875,
+    "created_at": "2025-08-13",
+    "closed_at": "2025-08-26"
+  },
+  {
+    "deal_id": "D567",
+    "account_id": "A82",
+    "rep_id": "R3",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-10-07",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D568",
+    "account_id": "A16",
+    "rep_id": "R1",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-10-11",
+    "closed_at": "2025-11-08"
+  },
+  {
+    "deal_id": "D569",
+    "account_id": "A95",
+    "rep_id": "R15",
+    "stage": "Closed Won",
+    "amount": 32752,
+    "created_at": "2025-06-06",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D570",
+    "account_id": "A21",
+    "rep_id": "R3",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-11-27",
+    "closed_at": "2025-12-25"
+  },
+  {
+    "deal_id": "D571",
+    "account_id": "A103",
+    "rep_id": "R10",
+    "stage": "Prospecting",
+    "amount": 76939,
+    "created_at": "2025-02-28",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D572",
+    "account_id": "A86",
+    "rep_id": "R2",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-11-27",
+    "closed_at": "2026-01-13"
+  },
+  {
+    "deal_id": "D573",
+    "account_id": "A46",
+    "rep_id": "R3",
+    "stage": "Negotiation",
+    "amount": 18113,
+    "created_at": "2025-10-25",
+    "closed_at": "2025-12-16"
+  },
+  {
+    "deal_id": "D574",
+    "account_id": "A25",
+    "rep_id": "R6",
+    "stage": "Closed Lost",
+    "amount": 64067,
+    "created_at": "2025-11-14",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D575",
+    "account_id": "A73",
+    "rep_id": "R10",
+    "stage": "Closed Won",
+    "amount": 46462,
+    "created_at": "2025-11-12",
+    "closed_at": "2025-12-11"
+  },
+  {
+    "deal_id": "D576",
+    "account_id": "A32",
+    "rep_id": "R13",
+    "stage": "Negotiation",
+    "amount": 62163,
+    "created_at": "2025-03-28",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D577",
+    "account_id": "A94",
+    "rep_id": "R6",
+    "stage": "Closed Lost",
+    "amount": 65666,
+    "created_at": "2025-07-04",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D578",
+    "account_id": "A71",
+    "rep_id": "R2",
+    "stage": "Negotiation",
+    "amount": 15744,
+    "created_at": "2025-07-03",
+    "closed_at": "2025-09-13"
+  },
+  {
+    "deal_id": "D579",
+    "account_id": "A34",
+    "rep_id": "R12",
+    "stage": "Prospecting",
+    "amount": null,
+    "created_at": "2025-03-13",
+    "closed_at": "2025-04-17"
+  },
+  {
+    "deal_id": "D580",
+    "account_id": "A99",
+    "rep_id": "R10",
+    "stage": "Negotiation",
+    "amount": 9804,
+    "created_at": "2025-09-17",
+    "closed_at": "2025-11-17"
+  },
+  {
+    "deal_id": "D581",
+    "account_id": "A61",
+    "rep_id": "R11",
+    "stage": "Negotiation",
+    "amount": 52948,
+    "created_at": "2025-10-06",
+    "closed_at": "2025-12-24"
+  },
+  {
+    "deal_id": "D582",
+    "account_id": "A18",
+    "rep_id": "R8",
+    "stage": "Prospecting",
+    "amount": 57007,
+    "created_at": "2025-04-25",
+    "closed_at": "2025-06-11"
+  },
+  {
+    "deal_id": "D583",
+    "account_id": "A31",
+    "rep_id": "R14",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-09-15",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D584",
+    "account_id": "A73",
+    "rep_id": "R10",
+    "stage": "Negotiation",
+    "amount": 68373,
+    "created_at": "2025-08-17",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D585",
+    "account_id": "A63",
+    "rep_id": "R4",
+    "stage": "Prospecting",
+    "amount": 39649,
+    "created_at": "2025-01-21",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D586",
+    "account_id": "A27",
+    "rep_id": "R9",
+    "stage": "Closed Won",
+    "amount": 55868,
+    "created_at": "2025-04-30",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D587",
+    "account_id": "A84",
+    "rep_id": "R6",
+    "stage": "Prospecting",
+    "amount": 73337,
+    "created_at": "2025-08-21",
+    "closed_at": "2025-09-05"
+  },
+  {
+    "deal_id": "D588",
+    "account_id": "A49",
+    "rep_id": "R11",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-05-15",
+    "closed_at": "2025-06-16"
+  },
+  {
+    "deal_id": "D589",
+    "account_id": "A117",
+    "rep_id": "R4",
+    "stage": "Closed Lost",
+    "amount": 51255,
+    "created_at": "2025-09-22",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D590",
+    "account_id": "A65",
+    "rep_id": "R15",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-09-07",
+    "closed_at": "2025-09-17"
+  },
+  {
+    "deal_id": "D591",
+    "account_id": "A83",
+    "rep_id": "R5",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-04-28",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D592",
+    "account_id": "A85",
+    "rep_id": "R4",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-03-22",
+    "closed_at": "2025-04-16"
+  },
+  {
+    "deal_id": "D593",
+    "account_id": "A27",
+    "rep_id": "R10",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-09-04",
+    "closed_at": "2025-11-14"
+  },
+  {
+    "deal_id": "D594",
+    "account_id": "A74",
+    "rep_id": "R10",
+    "stage": "Negotiation",
+    "amount": null,
+    "created_at": "2025-05-05",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D595",
+    "account_id": "A22",
+    "rep_id": "R5",
+    "stage": "Negotiation",
+    "amount": 72717,
+    "created_at": "2025-10-21",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D596",
+    "account_id": "A113",
+    "rep_id": "R12",
+    "stage": "Closed Won",
+    "amount": null,
+    "created_at": "2025-11-03",
+    "closed_at": "2025-11-15"
+  },
+  {
+    "deal_id": "D597",
+    "account_id": "A112",
+    "rep_id": "R8",
+    "stage": "Negotiation",
+    "amount": 33752,
+    "created_at": "2025-08-18",
+    "closed_at": "2025-10-27"
+  },
+  {
+    "deal_id": "D598",
+    "account_id": "A75",
+    "rep_id": "R14",
+    "stage": "Negotiation",
+    "amount": 71952,
+    "created_at": "2025-11-04",
+    "closed_at": null
+  },
+  {
+    "deal_id": "D599",
+    "account_id": "A119",
+    "rep_id": "R8",
+    "stage": "Prospecting",
+    "amount": 35122,
+    "created_at": "2025-03-27",
+    "closed_at": "2025-05-19"
+  },
+  {
+    "deal_id": "D600",
+    "account_id": "A3",
+    "rep_id": "R4",
+    "stage": "Closed Lost",
+    "amount": null,
+    "created_at": "2025-07-17",
+    "closed_at": null
+  }
+]
