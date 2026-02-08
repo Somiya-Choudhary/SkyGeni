@@ -10,3 +10,13 @@ Backend API for the Revenue Intelligence Console.
 ```bash
 npm install
 ```
+
+## Run Server
+```bash
+npm run dev
+```
+
+## The server will run at:
+```bash
+http://localhost:5000
+```
