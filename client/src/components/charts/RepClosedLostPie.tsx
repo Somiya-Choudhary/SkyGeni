@@ -69,7 +69,7 @@ export default function RepClosedLostPie() {
     <Card sx={{ width: "100%" }}>
       <CardContent>
         <Typography variant="h6" sx={{ fontWeight: 700, mb: 1 }}>
-          Closed Lost by Rep (deduped)
+          Closed Lost by Rep
         </Typography>
         <svg ref={svgRef} />
       </CardContent>

@@ -112,7 +112,7 @@ export default function SegmentStageIndustryChart() {
       <CardContent>
         <Box sx={{ display: "flex", justifyContent: "space-between", alignItems: "center", mb: 1 }}>
           <Typography variant="h6" sx={{ fontWeight: 700 }}>
-            Segment × Stage × Industry (cleaned)
+            Segment × Stage × Industry
           </Typography>
 
           <Select size="small" value={segment} onChange={(e) => setSegment(String(e.target.value))}>

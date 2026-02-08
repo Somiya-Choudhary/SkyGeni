@@ -90,7 +90,7 @@ export default function StageVsRepHeatmap() {
     <Card sx={{ width: "100%" }}>
       <CardContent>
         <Typography variant="h6" sx={{ fontWeight: 700, mb: 1 }}>
-          Stage × Rep (Heatmap) — cleaned (1 stage per deal)
+          Stage × Rep (Heatmap)
         </Typography>
         <Typography variant="body2" sx={{ mb: 1, color: "text.secondary" }}>
           Counts are based on final stage per deal_id, so deals are not double-counted across stages.

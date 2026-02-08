@@ -92,7 +92,7 @@ export default function RepClosedWonPie() {
     <Card sx={{ width: "100%" }}>
       <CardContent>
         <Typography variant="h6" sx={{ fontWeight: 700, mb: 1 }}>
-          Closed Won by Rep (deduped)
+          Closed Won by Rep
         </Typography>
         <svg ref={svgRef} />
       </CardContent>
